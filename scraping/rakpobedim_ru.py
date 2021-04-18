@@ -16,7 +16,6 @@ for i in range(10):
     local_topics = [topic.get_attribute('href') for topic in local_topics]
     topics.extend(local_topics)
 
-print(os.getcwd())
 handler = open('rakpobedim_ru.txt', 'a', encoding='utf-8')
 
 for topic in topics:
