@@ -16,9 +16,10 @@ for i in range(10):
     local_topics = [topic.get_attribute('href') for topic in local_topics]
     topics.extend(local_topics)
 
-handler = open('rakpobedim_ru.txt', 'a', encoding='utf-8')
+handler = open('rakpobedim_ru2.txt', 'a', encoding='utf-8')
 
 for topic in topics:
+    handler.write('\nTOPIC\n')
     driver.get(topic)
     stop = 1
     while stop:
