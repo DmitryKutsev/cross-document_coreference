@@ -30,7 +30,7 @@
 использовать в своих алгоритмах разрешение анафоры.
 
 
-## Виды анафоры и процесс разрешения.
+## Типы анафоры и процесс разрешения.
 
 Самый распостраненный тип анафоры подразумевает связи местоимения(реже существительного) с именованной сущностью, 
 или упоминанием этой сущности. Такой тип анафоры называют прономинальной.
@@ -44,8 +44,8 @@
 интерсентенциальные).
 
 В основном в системах разрешения анафоры в качестве анафора рассматривают только именные группы существительных. Хотя бывают случаи,
-когда в качестве антецедента выступают глагольные группы, целые предложения, или участки дискурса[]. Также большинство исследований рассматривает анафоры с кореферентными связями в пределах нескольких предложений одного текста. 
-Сами системы разрешения анафоры можно разделить на правиловые системы, системы на основе алгоритмов машинного обучения, и гибридные.
+когда в качестве антецедента выступают глагольные группы, целые предложения, или участки дискурса[1]. Также большинство исследований рассматривает анафоры с кореферентными связями в пределах нескольких предложений одного текста. 
+Сами системы разрешения анафоры можно разделить на правиловые системы [5], системы на основе алгоритмов машинного обучения[7, 8], и гибридные системы[3].
 
 
 
@@ -61,18 +61,18 @@
 
 
 -----
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6235&rep=rep1&type=pdf
+[1] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6235&rep=rep1&type=pdf
 ANAPHORA RESOLUTION: THE STATE OF THE ART, Ruslan Mitkov
 
 Hirst, Graeme. 1981.Anaphora in natural language understanding. Berlin Springer Verlag,
 1981.
 
-https://www.aclweb.org/anthology/W16-0711.pdf
+[2] https://www.aclweb.org/anthology/W16-0711.pdf
 Error analysis for anaphora resolution in Russian: new challenging issues
 for anaphora resolution task in a morphologically rich language
 Svetlana Toldova Ilya Azerkovich Anna Roytberg
 
-http://www.dialog-21.ru/media/3913/gureenkovaoaetal.pdf
+[3] http://www.dialog-21.ru/media/3913/gureenkovaoaetal.pdf
 Complex Approach towards
 Algoritm Learning for Anaphora
 Resolution in Russian Language
@@ -81,4 +81,29 @@ Batura T. V. ,
 Kozlova A. A.,
 Svischev A. N.
 
+[4] https://arxiv.org/pdf/1805.10163.pdf
+Context-Aware Neural Machine Translation Learns Anaphora Resolution
+Elena Voita
+University of Amsterdam, Netherlands
+Pavel Serdyukov
+Rico Sennrich
 
+[5] http://www.dialog-21.ru/media/4829/inshakovaes-167.pdf
+AN ANAPHORA RESOLUTION SYSTEM FOR RUSSIAN BASED ON ETAP-4 LINGUISTIC PROCESSOR1 Inshakova E. S
+
+[6] https://www.aclweb.org/anthology/J13-4004.pdf
+Jurafsky D., Lee H., Chang A., Peirsman Y., Chambers N., Surdeanu M. (2013), Deterministic Coreference Resolution Based on Entity-Centric, Precision-Ranked
+Rules, Association for Computational Linguistics, Vol. 39, N 4, pp. 885–916.
+
+
+[7] http://www.dialog-21.ru/digests/dialog2014/materials/pdf/Kamenskaya%D0%9C%D0%90.pdf
+Kamenskaya М. А., Khramoin I. V., Smirnov I. V. (2014), Data-driven Methods
+for Anaphora Resolution of Russian, Computational Linguistics and Intellectual Technologies: Papers from the Annual International Conference “Dialogue”
+(2014), Issue 13 (20), pp. 241–250.
+
+http://www.dialog-21.ru/digests/dialog2014/materials/pdf/ProtopopovaEV.pdf
+[8] Protopopova E. V., Bodrova A. A., Volskaya S. A., Krylova I. V., Chuchunkov A. S.,
+Alexeeva S. V., Bocharov V. V., Granovsky D. V. (2014), Anaphoric Annotation and
+Corpus-Based Anaphora Resolution: An Experiment, Computational Linguistics
+and Intellectual Technologies: Papers from the Annual International Conference
+“Dialogue” (2014), Issue 13 (20), pp. 562–571
