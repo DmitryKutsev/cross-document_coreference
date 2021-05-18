@@ -43,7 +43,10 @@
 которых находятся в разных предложениях(интрасентенциальные, и
 интерсентенциальные).
 
-Попробуем р
+В основном в системах разрешения анафоры в качестве анафора рассматривают только именные группы существительных. Хотя бывают случаи,
+когда в качестве антецедента выступают глагольные группы, целые предложения, или участки дискурса[]. Также большинство исследований рассматривает анафоры с кореферентными связями в пределах нескольких предложений одного текста. 
+Сами системы разрешения анафоры можно разделить на правиловые системы, системы на основе алгоритмов машинного обучения, и гибридные.
+
 
 
 
@@ -63,3 +66,19 @@ ANAPHORA RESOLUTION: THE STATE OF THE ART, Ruslan Mitkov
 
 Hirst, Graeme. 1981.Anaphora in natural language understanding. Berlin Springer Verlag,
 1981.
+
+https://www.aclweb.org/anthology/W16-0711.pdf
+Error analysis for anaphora resolution in Russian: new challenging issues
+for anaphora resolution task in a morphologically rich language
+Svetlana Toldova Ilya Azerkovich Anna Roytberg
+
+http://www.dialog-21.ru/media/3913/gureenkovaoaetal.pdf
+Complex Approach towards
+Algoritm Learning for Anaphora
+Resolution in Russian Language
+Gureenkova O. A.,
+Batura T. V. ,
+Kozlova A. A.,
+Svischev A. N.
+
+
