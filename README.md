@@ -211,5 +211,5 @@ Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=Esid=\frac{\sum_n^i{E\imath}}{n}
 [f2]: http://chart.apis.google.com/chart?cht=tx&chl=Esid
 [f3]: http://chart.apis.google.com/chart?cht=tx&chl=Ei
-[f4]: http://chart.apis.google.com/chart?cht=tx&chl=n
+[f4]: http://chart.apis.google.com/chart?cht=tx&chl=m_0c^2
 [f5]: http://chart.apis.google.com/chart?cht=tx&chl=i
