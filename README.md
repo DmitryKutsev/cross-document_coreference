@@ -186,3 +186,10 @@ An anaphora resolution system for Russian based on ETAP-4 linguistic processor
 
 [12] https://www.aclweb.org/anthology/2021.eacl-main.116.pdf ChEMU-Ref: A Corpus for Modeling Anaphora Resolution in the Chemical Domain
 Biaoyan Fang, Christian Druckenbrodt, Saber A Akhondi, Jiayuan He, Timothy Baldwin, Karin Verspoor
+
+[13] Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2020. All
+rights reserved. Draft of December 30, 2020. глава про разрешение кореференции
+https://web.stanford.edu/~jurafsky/slp3/21.pdf
+
+[14] https://web.stanford.edu/~jurafsky/slp3/20.pdf 20.4.1 Semantic Axis Methods
+Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2020. All rights reserved. Draft of December 30, 2020. CHAPTER 20 Lexicons for Sentiment, Affect, and Connotation
