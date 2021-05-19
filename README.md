@@ -114,27 +114,12 @@
 Для каждого из значений TOKEN_VECT, HEAD_CHILDS_VECT, SENT_VECT, HEAD_VECT расчитывались сидовые множества. Как правило, в первом посте каждого топика содержится название препарата, и тема для обсуждения. В общем случае это модерируемое сообщение, написанное по шаблону:
   - "Обсуждаем препарат анальгин(производитель Фарма-инк)."
 Из каждого первого предложения топика(на данный момент размечено 5 топиков) извлекался анафор, его главное слово, и зависимые слова. Для каждого знаения отдельно берется вектор, и так же векторизуется все предложение. 
-
-```
-(https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
-```
-
-```
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-```
-
-![f2]
-
-[f2]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
+Формула расчета каждого из сидовых множеств:
 
 ![f1]
 
-[f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}}
+[f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
 
-
-<img src="https://latex.codecogs.com/svg.image?Esid&space;=&space;&space;\frac{\sum_n^i{E\imath}}{n}" title="Esid = \frac{\sum_n^i{E\imath}}{n}" />
-
-_Esid =  \frac{\sum_n^i{E\imath}}{n}_
 
 
 
