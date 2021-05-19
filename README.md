@@ -213,4 +213,4 @@ Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 
 [f2]: http://chart.apis.google.com/chart?cht=tx&chl=Esid
 [f3]: http://chart.apis.google.com/chart?cht=tx&chl=Ei
 [f4]: http://chart.apis.google.com/chart?cht=tx&chl=n
-[f5]: http://chart.apis.google.com/chart?cht=tx&chl=score(w)=cos(E(w),Vaxis)
+[f5]: http://chart.apis.google.com/chart?cht=tx&chl=SCORE_w=cos(Ew,Vaxis)
