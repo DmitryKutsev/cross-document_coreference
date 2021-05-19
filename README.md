@@ -125,7 +125,7 @@
 
 ![f2]
 
-[f2]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}" title="Esid = \frac{\sum_n^i{E\imath}}{n}
+[f2]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
 
 ![f1]
 
