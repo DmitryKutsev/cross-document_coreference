@@ -116,9 +116,26 @@
 Из каждого первого предложения топика(на данный момент размечено 5 топиков) извлекался анафор, его главное слово, и зависимые слова. Для каждого знаения отдельно берется вектор, и так же векторизуется все предложение. 
 
 ```
-![formula](https://render.githubusercontent.com/render/math?math=A,%20B%20\in%20\U,%20x%20\in%20\Z)
+(https://latex.codecogs.com/svg.latex?y%3Dx%5E2)
 ```
 
+```
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+```
+
+```
+The ratio of the momentum to the velocity is
+the relativistic mass, m.
+
+![f1]
+
+[f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}}
+
+```
+
+```
+_Esid =  \frac{\sum_n^i{E\imath}}{n}_
+```
 
 
 
