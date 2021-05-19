@@ -118,9 +118,8 @@
 
 ![f1]
 
+Здесь [f2] - результативный вектор сидового множества, [f3] - вектор токена, предложения,главного слова, или зависимых слов главного слова, а [f4] - количество топиков.
 
-
-Здесь 
 
 
 
@@ -209,5 +208,8 @@ https://web.stanford.edu/~jurafsky/slp3/21.pdf
 Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2020. All rights reserved. Draft of December 30, 2020. CHAPTER 20 Lexicons for Sentiment, Affect, and Connotation
 
 
-[f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
-[f2]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
+[f1]: http://chart.apis.google.com/chart?cht=tx&chl=Esid=\frac{\sum_n^i{E\imath}}{n}
+[f2]: http://chart.apis.google.com/chart?cht=tx&chl=Esid
+[f3]: http://chart.apis.google.com/chart?cht=tx&chl=Ei
+[f4]: http://chart.apis.google.com/chart?cht=tx&chl=n
+[f5]: http://chart.apis.google.com/chart?cht=tx&chl=i
