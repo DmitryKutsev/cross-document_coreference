@@ -116,7 +116,7 @@
 Из каждого первого предложения топика(на данный момент размечено 5 топиков) извлекался анафор, его главное слово, и зависимые слова. Для каждого знаения отдельно берется вектор, и так же векторизуется все предложение. 
 
 ```math
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 ```
 
 
