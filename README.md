@@ -118,8 +118,9 @@
 
 ![f1]
 
-[f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
 
+
+Здесь 
 
 
 
@@ -206,3 +207,7 @@ https://web.stanford.edu/~jurafsky/slp3/21.pdf
 
 [14] https://web.stanford.edu/~jurafsky/slp3/20.pdf 20.4.1 Semantic Axis Methods
 Speech and Language Processing. Daniel Jurafsky & James H. Martin. Copyright © 2020. All rights reserved. Draft of December 30, 2020. CHAPTER 20 Lexicons for Sentiment, Affect, and Connotation
+
+
+[f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
+[f2]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}
