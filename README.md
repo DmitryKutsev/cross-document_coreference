@@ -125,7 +125,7 @@
 
 ![f2]
 
-[f2]: https://latex.codecogs.com/svg.image?Esid&space;=&space;&space;\frac{\sum_n^i{E\imath}}{n}" title="Esid = \frac{\sum_n^i{E\imath}}{n}
+[f2]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{\sum_n^i{E\imath}}{n}" title="Esid = \frac{\sum_n^i{E\imath}}{n}
 
 ![f1]
 
