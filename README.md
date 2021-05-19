@@ -116,7 +116,7 @@
 Из каждого первого предложения топика(на данный момент размечено 5 топиков) извлекался анафор, его главное слово, и зависимые слова. Для каждого знаения отдельно берется вектор, и так же векторизуется все предложение. 
 
 ```math
-<img src="https://latex.codecogs.com/svg.image?Esid&space;=&space;&space;\frac{\sum_n^i{E\imath}}{n}" title="Esid = \frac{\sum_n^i{E\imath}}{n}" />
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 ```
 
 
