@@ -123,7 +123,7 @@
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 ```
 
-```
+
 The ratio of the momentum to the velocity is
 the relativistic mass, m.
 
@@ -131,11 +131,11 @@ the relativistic mass, m.
 
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}}
 
-```
 
-```
+
+
 _Esid =  \frac{\sum_n^i{E\imath}}{n}_
-```
+
 
 
 
