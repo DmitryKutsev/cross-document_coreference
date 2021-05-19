@@ -123,16 +123,16 @@
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 ```
 
+![f2]
 
-The ratio of the momentum to the velocity is
-the relativistic mass, m.
+[f2]: https://latex.codecogs.com/svg.image?Esid&space;=&space;&space;\frac{\sum_n^i{E\imath}}{n}" title="Esid = \frac{\sum_n^i{E\imath}}{n}
 
 ![f1]
 
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}}
 
 
-
+<img src="https://latex.codecogs.com/svg.image?Esid&space;=&space;&space;\frac{\sum_n^i{E\imath}}{n}" title="Esid = \frac{\sum_n^i{E\imath}}{n}" />
 
 _Esid =  \frac{\sum_n^i{E\imath}}{n}_
 
