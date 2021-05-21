@@ -164,9 +164,13 @@
 Для оценки разрешения анафоры использовались метрики: recall, precision и F-measure.
 
 Для оценки разрешения кореференции: MUC, B3, CEAF и F-measure.
+
+данная работа посвящена в первую очередь разрешению анафоры, поэтому рассмотрим более подробно оценку систем для разрешения именно анафоры.
+метрика precision рассчитывается по формуле:
+
 ![f6]
 
-
+где ![f7] - пары антецедент - анафор, распознанные системой верно, а ![f8] - все пары, распознанные системой, как имеющие анафорическую связь.
 
 
 
@@ -260,3 +264,8 @@ In LREC.
 [f4]: http://chart.apis.google.com/chart?cht=tx&chl=n
 [f5]: http://chart.apis.google.com/chart?cht=tx&chl=score_w=cos(E_w,E_sid)
 [f6]: http://chart.apis.google.com/chart?cht=tx&chl=P=\frac{M}{S}
+[f7]: http://chart.apis.google.com/chart?cht=tx&chl=M
+[f8]: http://chart.apis.google.com/chart?cht=tx&chl=S
+
+
+
