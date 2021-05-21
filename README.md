@@ -157,8 +157,14 @@
 
 
 ## Метрики оценки системы
-Работы по оценке систем анафоры и кореференции используют различные критерии. При расчете метрик разделяют типы местоимений(личные, посессивные, рефлексивные), а так же растояние между анафором и антецедентом[17], иногда учитывают, например, только личные местоимения.
 
+К сожалению, не тек много исследований описывают рассчет ошибок систем разрешения анафоры для русского языка. В 2014 году был проведен форум U-EVAL-2014: Evaluating anaphora and coreference resolution for Russian, посвященный оценке систем разрешения анафоры и кореференции для русских текстов. Участникам форума высылался набор данных, на котором они использовали свои системы.
+
+Отдельно оценивались разрешение анафоры и кореференция.
+Для оценки разрешения анафоры использовались метрики: recall, precision и F-measure.
+
+Для оценки разрешения кореференции: MUC, B3, CEAF и F-measure.
+![f6]
 
 
 
@@ -245,6 +251,7 @@ Svetlana Toldova, Ilya Azerkovich, Alina Ladygina, Anna Roitberg, Maria Vasilyev
 
 [17] C. Barbu. 2002. Error analysis in anaphora resolution.
 In LREC.
+[17] https://www.researchgate.net/publication/292851003_RU-EVAL-2014_Evaluating_anaphora_and_coreference_resolution_for_Russian U-EVAL-2014: Evaluating anaphora and coreference resolution for Russian
 
 
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=E_sid=\frac{\sum_n^i{E\imath}}{n}
@@ -252,3 +259,4 @@ In LREC.
 [f3]: http://chart.apis.google.com/chart?cht=tx&chl=Ei
 [f4]: http://chart.apis.google.com/chart?cht=tx&chl=n
 [f5]: http://chart.apis.google.com/chart?cht=tx&chl=score_w=cos(E_w,E_sid)
+[f6]: http://chart.apis.google.com/chart?cht=tx&chl=P=\frac{M}{S}
