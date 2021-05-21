@@ -154,7 +154,7 @@
 ![f5]
 
 ## Описание моделей
-
+`coming soon`
 
 ## Метрики оценки системы
 
@@ -185,6 +185,15 @@
 ![f12]
 
 где ![f13] и ![f14]  - точность и полнота.
+
+## Результаты работы моделей
+`coming soon`
+
+## Дискуссия
+`coming soon`
+
+## Выводы
+`coming soon`
 
 -----
 [1] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6235&rep=rep1&type=pdf
