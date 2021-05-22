@@ -283,7 +283,7 @@ In LREC.
 [f9]: http://chart.apis.google.com/chart?cht=tx&chl=R=\frac{M}{G}
 [f10]: http://chart.apis.google.com/chart?cht=tx&chl=M
 [f11]: http://chart.apis.google.com/chart?cht=tx&chl=G
-[f12]: http://chart.apis.google.com/chart?cht=tx&chl=R=\frac{2PR}{P+R}
+[f12]: http://chart.apis.google.com/chart?cht=tx&chl=Fscore=\frac{2PR}{P+R}
 [f13]: http://chart.apis.google.com/chart?cht=tx&chl=P
 [f14]: http://chart.apis.google.com/chart?cht=tx&chl=R
 
