@@ -288,4 +288,3 @@ In LREC.
 [f13]: http://chart.apis.google.com/chart?cht=tx&chl=P
 [f14]: http://chart.apis.google.com/chart?cht=tx&chl=R
 
-
