@@ -17350,7 +17350,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 про	0	20	3	1	555					PREP	case	побочку	inan	accs	femn	NOUN	0	0	
 побочку	0	20	3	1	556	inan	accs	femn		NOUN	nmod	теме	inan	datv	femn	NOUN	0	0	sing
 от	0	20	3	1	557					PREP	case	гемцитабина	anim	gent	masc	NOUN	0	0	
-гемцитабина	0	20	3	1	558	anim	gent	masc		NOUN	nmod	побочку	inan	accs	femn	NOUN	0	0	sing
+гемцитабина	0	20	3	1	558	anim	gent	masc		NOUN	nmod	побочку	inan	accs	femn	NOUN	1	558	sing
 только	0	20	3	1	559					ADVB	advmod	теме	inan	datv	femn	NOUN	0	0	
 по	0	20	3	2	560					PREP	case	темам	inan	datv	femn	NOUN	0	0	
 всем	0	20	3	2	561		datv			ADJF	det	темам	inan	datv	femn	NOUN	0	0	plur
@@ -17367,7 +17367,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 именно	0	20	3	2	572					PRCL	advmod	капецитабине	anim	loct	masc	NOUN	0	0	
 об	0	20	3	2	573					PREP	case	капецитабине	anim	loct	masc	NOUN	0	0	
 одном	0	20	3	2	574		loct	masc		ADJF	nummod	капецитабине	anim	loct	masc	NOUN	0	0	sing
-капецитабине	0	20	3	2	575	anim	loct	masc		NOUN	nmod	отзывов	inan	gent	masc	NOUN	0	0	sing
+капецитабине	0	20	3	2	575	anim	loct	masc		NOUN	nmod	отзывов	inan	gent	masc	NOUN	1	575	sing
 и	0	20	3	2	576					CONJ	cc	человека	anim	gent	masc	NOUN	0	0	
 именно	0	20	3	2	577					PRCL	advmod	человека	anim	gent	masc	NOUN	0	0	
 у	0	20	3	2	578					PREP	case	человека	anim	gent	masc	NOUN	0	0	
@@ -17385,7 +17385,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 уже	1	20	4	1	590					ADVB	advmod	тему	inan	accs	femn	NOUN	0	0	
 тему	1	20	4	1	591	inan	accs	femn		NOUN	obj	писала			femn	VERB	0	0	sing
 про	1	20	4	1	592					PREP	case	гемцитабин	anim	nomn	masc	NOUN	0	0	
-гемцитабин	1	20	4	1	593	anim	nomn	masc		NOUN	nmod	тему	inan	accs	femn	NOUN	0	0	sing
+гемцитабин	1	20	4	1	593	anim	nomn	masc		NOUN	nmod	тему	inan	accs	femn	NOUN	1	593	sing
 который	1	20	4	1	594		nomn	masc		ADJF	nsubj	пошел			masc	VERB	0	0	sing
 у	1	20	4	1	595					PREP	case	нас		gent		NPRO	0	0	
 нас	1	20	4	1	596		gent		1per	NPRO	obl	пошел			masc	VERB	0	0	plur
@@ -17402,11 +17402,11 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 нам	1	20	4	1	607		datv		1per	NPRO	iobj	назначили				VERB	0	0	plur
 назначили	1	20	4	1	608					VERB	conj	пошел			masc	VERB	0	0	plur
 пить	1	20	4	1	609					INFN	xcomp	назначили				VERB	0	0	
-капецитабин	1	20	4	1	610	anim	nomn	masc		NOUN	obj	пить				INFN	0	0	sing
+капецитабин	1	20	4	1	610	anim	nomn	masc		NOUN	obj	пить				INFN	1	610	sing
 или	1	20	4	1	611					CONJ	cc	называется				VERB	0	0	
 еще	1	20	4	1	612					ADVB	advmod	называется				VERB	0	0	
 называется	1	20	4	1	613				3per	VERB	conj	пошел			masc	VERB	0	0	sing
-кселода	1	20	4	1	614	inan	nomn	femn		NOUN	nsubj	называется				VERB	0	0	sing
+кселода	1	20	4	1	614	inan	nomn	femn		NOUN	nsubj	называется				VERB	1	614	sing
 маме	1	20	4	2	615	anim	datv	femn		NOUN	iobj	лет	inan	gent	masc	NOUN	0	0	sing
 79	1	20	4	2	616						nummod	лет	inan	gent	masc	NOUN	0	0	
 лет	1	20	4	2	617	inan	gent	masc		NOUN	ROOT	лет	inan	gent	masc	NOUN	0	0	plur
@@ -17429,7 +17429,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 от	1	20	4	3	634					PREP	case	химии	inan	gent	femn	NOUN	0	0	
 химии	1	20	4	3	635	inan	gent	femn		NOUN	obl	отходили				VERB	0	0	sing
 с	1	20	4	3	636					PREP	case	гемцитабином	inan	ablt	masc	NOUN	0	0	
-гемцитабином	1	20	4	3	637	inan	ablt	masc		NOUN	obl	отходили				VERB	0	0	sing
+гемцитабином	1	20	4	3	637	inan	ablt	masc		NOUN	obl	отходили				VERB	1	637	sing
 самочувствие	1	20	4	4	638	inan	accs	neut		NOUN	nsubj	вернулось			neut	VERB	0	0	sing
 вернулось	1	20	4	4	639			neut		VERB	ROOT	вернулось			neut	VERB	0	0	sing
 хорошее	1	20	4	4	640		accs	neut		ADJF	nsubj	вернулось			neut	VERB	0	0	sing
@@ -17443,7 +17443,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 каждый	1	20	4	4	648	inan	accs	masc		ADJF	det	день	inan	accs	masc	NOUN	0	0	sing
 день	1	20	4	4	649	inan	accs	masc		NOUN	obl	гуляем				VERB	0	0	sing
 таблетки	1	20	4	5	650	inan	accs	femn		NOUN	obj	получила			femn	VERB	0	0	plur
-капецитабина	1	20	4	5	651	anim	gent	masc		NOUN	nmod	таблетки	inan	accs	femn	NOUN	0	0	sing
+капецитабина	1	20	4	5	651	anim	gent	masc		NOUN	nmod	таблетки	inan	accs	femn	NOUN	1	651	sing
 получила	1	20	4	5	652			femn		VERB	ROOT	получила			femn	VERB	0	0	sing
 запланировали	1	20	4	5	653					VERB	conj	получила			femn	VERB	0	0	plur
 с	1	20	4	5	654					PREP	case	понедельника	inan	gent	masc	NOUN	0	0	
@@ -17542,9 +17542,9 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 только	1	20	4	9	747					ADVB	advmod	омез	inan	nomn	masc	NOUN	0	0	
 из	1	20	4	9	748					PREP	case	омез	inan	nomn	masc	NOUN	0	0	
 сопутствующего	1	20	4	9	749		gent	masc		PRTF	amod	омез	inan	nomn	masc	NOUN	0	0	sing
-омез	1	20	4	9	750	inan	nomn	masc		NOUN	obl	выписал			masc	VERB	0	0	sing
+омез	1	20	4	9	750	inan	nomn	masc		NOUN	obl	выписал			masc	VERB	1	750	sing
 и	1	20	4	9	751					CONJ	cc	лоперамид	inan	nomn	masc	NOUN	0	0	
-лоперамид	1	20	4	9	752	inan	nomn	masc		NOUN	conj	омез	inan	nomn	masc	NOUN	0	0	sing
+лоперамид	1	20	4	9	752	inan	nomn	masc		NOUN	conj	омез	inan	nomn	masc	NOUN	1	752	sing
 купила	1	20	4	10	753			femn		VERB	ROOT	купила			femn	VERB	0	0	sing
 желудочный	1	20	4	10	754		nomn	masc		ADJF	amod	кисель	inan	nomn	masc	NOUN	0	0	sing
 кисель	1	20	4	10	755	inan	nomn	masc		NOUN	obj	купила			femn	VERB	0	0	sing
@@ -17560,7 +17560,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 других	1	20	4	11	765		gent			ADJF	amod	процедурах	inan	loct	femn	NOUN	0	0	plur
 дезинтаксикационных	1	20	4	11	766		gent			ADJF	amod	процедурах	inan	loct	femn	NOUN	0	0	plur
 процедурах	1	20	4	11	767	inan	loct	femn		NOUN	obl	настаивала			femn	VERB	0	0	plur
-он	1	20	4	11	768		nomn	masc	3per	NPRO	nsubj	сказал			masc	VERB	0	0	sing
+он	1	20	4	11	768		nomn	masc	3per	NPRO	nsubj	сказал			masc	VERB	2	0	sing
 сказал	1	20	4	11	769			masc		VERB	ROOT	сказал			masc	VERB	0	0	sing
 не	1	20	4	11	770					PRCL	advmod	надо				PRED	0	0	
 надо	1	20	4	11	771					PRED	advmod	сказал			masc	VERB	0	0	
@@ -17641,8 +17641,8 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 была	1	20	4	15	845			femn		VERB	fixed	только				ADVB	0	0	sing
 первая	1	20	4	15	846		nomn	femn		ADJF	amod	химия	inan	nomn	femn	NOUN	0	0	sing
 химия	1	20	4	15	847	inan	nomn	femn		NOUN	ROOT	химия	inan	nomn	femn	NOUN	0	0	sing
-абраксан	1	20	4	15	848	anim	gent	femn		NOUN	nmod	химия	inan	nomn	femn	NOUN	0	0	plur
-гемцитабин	1	20	4	15	849	anim	nomn	masc		NOUN	nmod	абраксан	anim	gent	femn	NOUN	0	0	sing
+абраксан	1	20	4	15	848	anim	gent	femn		NOUN	nmod	химия	inan	nomn	femn	NOUN	1	848	plur
+гемцитабин	1	20	4	15	849	anim	nomn	masc		NOUN	nmod	абраксан	anim	gent	femn	NOUN	1	849	sing
 даже	1	20	4	16	850					PRCL	advmod	курс	inan	nomn	masc	NOUN	0	0	
 курс	1	20	4	16	851	inan	nomn	masc		NOUN	nsubj	прошли				VERB	0	0	sing
 не	1	20	4	16	852					PRCL	advmod	прошли				VERB	0	0	
@@ -17677,7 +17677,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 монорежими	1	20	4	17	881		ablt			ADJF	xcomp	начали				VERB	0	0	plur
 с	1	20	4	17	882					PREP	case	гемцитабином	inan	ablt	masc	NOUN	0	0	
 одним	1	20	4	17	883		ablt	masc		ADJF	nummod	гемцитабином	inan	ablt	masc	NOUN	0	0	sing
-гемцитабином	1	20	4	17	884	inan	ablt	masc		NOUN	obl	монорежими		ablt		ADJF	0	0	sing
+гемцитабином	1	20	4	17	884	inan	ablt	masc		NOUN	obl	монорежими		ablt		ADJF	1	884	sing
 это	1	20	4	17	885					PRCL	nsubj	кошмар	inan	nomn	masc	NOUN	0	0	
 кошмар	1	20	4	17	886	inan	nomn	masc		NOUN	ROOT	кошмар	inan	nomn	masc	NOUN	0	0	sing
 писала	1	20	4	17	887			femn		VERB	parataxis	кошмар	inan	nomn	masc	NOUN	0	0	sing
@@ -17693,9 +17693,9 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 другую	1	20	4	18	897		accs	femn		ADJF	amod	химию	inan	accs	femn	NOUN	0	0	sing
 химию	1	20	4	18	898	inan	accs	femn		NOUN	obj	выписали				VERB	0	0	sing
 xelox	1	20	4	18	899						appos	химию	inan	accs	femn	NOUN	0	0	
-оксалиплатин	1	20	4	18	900	inan	gent	femn		NOUN	appos	xelox					0	0	plur
+оксалиплатин	1	20	4	18	900	inan	gent	femn		NOUN	appos	xelox					1	900	plur
 и	1	20	4	18	901					CONJ	cc	капецитабин	anim	nomn	masc	NOUN	0	0	
-капецитабин	1	20	4	18	902	anim	nomn	masc		NOUN	conj	оксалиплатин	inan	gent	femn	NOUN	0	0	sing
+капецитабин	1	20	4	18	902	anim	nomn	masc		NOUN	conj	оксалиплатин	inan	gent	femn	NOUN	1	902	sing
 а	1	20	4	19	903					CONJ	cc	дают				VERB	0	0	
 назначения	1	20	4	19	904	inan	gent	neut		NOUN	obj	дают				VERB	0	0	sing
 дают	1	20	4	19	905				3per	VERB	ROOT	дают				VERB	0	0	plur
@@ -17734,14 +17734,14 @@ xelox	1	20	4	18	899						appos	химию	inan	accs	femn	NOUN	0	0
 начала	1	20	4	21	938	inan	gent	neut		NOUN	obl	попробуем				VERB	0	0	sing
 в	1	20	4	21	939					PREP	case	монорежиме	inan	loct	masc	NOUN	0	0	
 монорежиме	1	20	4	21	940	inan	loct	masc		NOUN	nmod	начала	inan	gent	neut	NOUN	0	0	sing
-капецитабином	1	20	4	21	941	inan	ablt	masc		NOUN	xcomp	попробуем				VERB	0	0	sing
+капецитабином	1	20	4	21	941	inan	ablt	masc		NOUN	xcomp	попробуем				VERB	1	941	sing
 и	1	20	4	21	942					CONJ	cc	добавим				VERB	0	0	
 если	1	20	4	21	943					CONJ	mark	пойдет				VERB	0	0	
 пойдет	1	20	4	21	944				3per	VERB	advcl	добавим				VERB	0	0	sing
 нормально	1	20	4	21	945					ADVB	advmod	пойдет				VERB	0	0	
 то	1	20	4	21	946					CONJ	mark	добавим				VERB	0	0	
 добавим	1	20	4	21	947				1per	VERB	advcl	сказал			masc	VERB	0	0	plur
-оксалиплатин	1	20	4	21	948	inan	gent	femn		NOUN	obj	добавим				VERB	0	0	plur
+оксалиплатин	1	20	4	21	948	inan	gent	femn		NOUN	obj	добавим				VERB	1	948	plur
 что	1	20	4	22	949					CONJ	mark	выписали				VERB	0	0	
 типа	1	20	4	22	950	inan	gent	masc		NOUN	obj	выписали				VERB	0	0	sing
 дозировки	1	20	4	22	951	inan	gent	femn		NOUN	nmod	типа	inan	gent	masc	NOUN	0	0	sing
@@ -17752,12 +17752,12 @@ xelox	1	20	4	18	899						appos	химию	inan	accs	femn	NOUN	0	0
 возраста	1	20	4	22	956	inan	gent	masc		NOUN	obl	большие		nomn		ADJF	0	0	sing
 такого	1	20	4	22	957		gent	neut		ADJF	det	возраста	inan	gent	masc	NOUN	0	0	sing
 назначил	1	20	4	23	958			masc		VERB	ROOT	назначил			masc	VERB	0	0	sing
-капецитабина	1	20	4	23	959	anim	gent	masc		NOUN	obj	назначил			masc	VERB	0	0	sing
+капецитабина	1	20	4	23	959	anim	gent	masc		NOUN	obj	назначил			masc	VERB	1	959	sing
 500	1	20	4	23	960						nummod	мг	inan	nomn	masc	NOUN	0	0	
 мг	1	20	4	23	961	inan	nomn	masc		NOUN	obj	назначил			masc	VERB	0	0	sing
 по	1	20	4	24	962					PREP	case	таблеток	inan	gent	femn	NOUN	0	0	
 8	1	20	4	24	963						nummod	таблеток	inan	gent	femn	NOUN	0	0	
-таблеток	1	20	4	24	964	inan	gent	femn		NOUN	obl	читала			femn	VERB	0	0	plur
+таблеток	1	20	4	24	964	inan	gent	femn		NOUN	obl	читала			femn	VERB	2	959	plur
 в	1	20	4	24	965					PREP	case	день	inan	accs	masc	NOUN	0	0	
 день	1	20	4	24	966	inan	accs	masc		NOUN	nmod	таблеток	inan	gent	femn	NOUN	0	0	sing
 4	1	20	4	24	967						parataxis	день	inan	accs	masc	NOUN	0	0	
@@ -17872,7 +17872,7 @@ xelox	1	20	4	18	899						appos	химию	inan	accs	femn	NOUN	0	0
 могут	1	20	4	31	1076				3per	VERB	conj	знаю				VERB	0	0	plur
 быть	1	20	4	31	1077					INFN	xcomp	могут				VERB	0	0	
 дозировка	1	20	4	32	1078	inan	nomn	femn		NOUN	nsubj	обычная		nomn	femn	ADJF	0	0	sing
-капецитабина	1	20	4	32	1079	anim	gent	masc		NOUN	nmod	дозировка	inan	nomn	femn	NOUN	0	0	sing
+капецитабина	1	20	4	32	1079	anim	gent	masc		NOUN	nmod	дозировка	inan	nomn	femn	NOUN	1	1079	sing
 у	1	20	4	32	1080					PREP	case	вас		accs		NPRO	0	0	
 вас	1	20	4	32	1081		accs		2per	NPRO	obl	обычная		nomn	femn	ADJF	0	0	plur
 обычная	1	20	4	32	1082		nomn	femn		ADJF	ROOT	обычная		nomn	femn	ADJF	0	0	sing
@@ -17957,7 +17957,7 @@ xelox	1	20	4	18	899						appos	химию	inan	accs	femn	NOUN	0	0
 как	1	20	4	39	1161					CONJ	mark	сложно				ADVB	0	0	
 все	1	20	4	39	1162					PRCL	nsubj	сложно				ADVB	0	0	
 сложно	1	20	4	39	1163					ADVB	ROOT	сложно				ADVB	0	0	
-капецитабин	1	20	4	40	1164	anim	nomn	masc		NOUN	nsubj	сказали				VERB	0	0	sing
+капецитабин	1	20	4	40	1164	anim	nomn	masc		NOUN	nsubj	сказали				VERB	1	1164	sing
 в	1	20	4	40	1165					PREP	case	монорежиме	inan	loct	masc	NOUN	0	0	
 монорежиме	1	20	4	40	1166	inan	loct	masc		NOUN	nmod	капецитабин	anim	nomn	masc	NOUN	0	0	sing
 без	1	20	4	40	1167					PREP	case	платины	inan	gent	femn	NOUN	0	0	
@@ -18060,7 +18060,7 @@ https://www.hv-info.ru/info/rekomendatsii-easl.html	0	21	0	3	59						punct	"				
 связано	0	21	1	0	66			neut		PRTS	ccomp	знает				VERB	0	0	sing
 отсутствие	0	21	1	0	67	inan	nomn	neut		NOUN	nsubj:pass	связано			neut	PRTS	0	0	sing
 схемы	0	21	1	0	68	inan	gent	femn		NOUN	nmod	отсутствие	inan	nomn	neut	NOUN	0	0	sing
-соф	0	21	1	0	69	inan	gent	femn		NOUN	nmod	схемы	inan	gent	femn	NOUN	0	0	plur
+соф	0	21	1	0	69	inan	gent	femn		NOUN	nmod	схемы	inan	gent	femn	NOUN	1	69	plur
 дак	0	21	1	0	70					CONJ	appos	соф	inan	gent	femn	NOUN	0	0	
 в	0	21	1	0	71					PREP	case	рекомендациях	inan	loct	femn	NOUN	0	0	
 новых	0	21	1	0	72		gent			ADJF	amod	рекомендациях	inan	loct	femn	NOUN	0	0	plur
@@ -18080,7 +18080,7 @@ katkat	1	21	2	0	74						punct	писал(а	inan	gent	masc	NOUN	0	0
 связано	1	21	2	0	86			neut		PRTS	parataxis	знает				VERB	0	0	sing
 отсутствие	1	21	2	0	87	inan	nomn	neut		NOUN	nsubj:pass	связано			neut	PRTS	0	0	sing
 схемы	1	21	2	0	88	inan	gent	femn		NOUN	nmod	отсутствие	inan	nomn	neut	NOUN	0	0	sing
-соф	1	21	2	0	89	inan	gent	femn		NOUN	nmod	схемы	inan	gent	femn	NOUN	0	0	plur
+соф	1	21	2	0	89	inan	gent	femn		NOUN	nmod	схемы	inan	gent	femn	NOUN	1	89	plur
 дак	1	21	2	0	90					CONJ	appos	соф	inan	gent	femn	NOUN	0	0	
 в	1	21	2	0	91					PREP	case	рекомендациях	inan	loct	femn	NOUN	0	0	
 новых	1	21	2	0	92		gent			ADJF	amod	рекомендациях	inan	loct	femn	NOUN	0	0	plur
@@ -18106,7 +18106,7 @@ katkat	1	21	2	0	74						punct	писал(а	inan	gent	masc	NOUN	0	0
 из	0	21	3	1	112					PREP	case	рекомендаций	inan	gent	femn	NOUN	0	0	
 рекомендаций	0	21	3	1	113	inan	gent	femn		NOUN	obl	исчез			masc	VERB	0	0	plur
 исчез	0	21	3	1	114			masc		VERB	ROOT	исчез			masc	VERB	0	0	sing
-рибавирин	0	21	3	1	115	anim	gent	femn		NOUN	nsubj	исчез			masc	VERB	0	0	plur
+рибавирин	0	21	3	1	115	anim	gent	femn		NOUN	nsubj	исчез			masc	VERB	1	115	plur
 почему	0	21	3	2	116					ADVB	advmod	вопросов	inan	gent	masc	NOUN	0	0	
 то	0	21	3	2	117					CONJ	advmod	вопросов	inan	gent	masc	NOUN	0	0	
 вопросов	0	21	3	2	118	inan	gent	masc		NOUN	nsubj	возникает				VERB	0	0	plur
@@ -18116,7 +18116,7 @@ katkat	1	21	2	0	74						punct	писал(а	inan	gent	masc	NOUN	0	0
 не	0	21	3	2	122					PRCL	advmod	возникает				VERB	0	0	
 возникает	0	21	3	2	123				3per	VERB	ROOT	возникает				VERB	0	0	sing
 про	0	21	4	0	124					PREP	case	рибаверин	anim	nomn	masc	NOUN	0	0	
-рибаверин	0	21	4	0	125	anim	nomn	masc		NOUN	obl	интересно				ADVB	0	0	sing
+рибаверин	0	21	4	0	125	anim	nomn	masc		NOUN	obl	интересно				ADVB	1	125	sing
 тоже	0	21	4	0	126					PRCL	advmod	интересно				ADVB	0	0	
 интересно	0	21	4	0	127					ADVB	ROOT	интересно				ADVB	0	0	
 родственница	0	21	4	1	128	anim	nomn	femn		NOUN	nsubj	болеет				VERB	0	0	sing
@@ -18127,8 +18127,8 @@ katkat	1	21	2	0	74						punct	писал(а	inan	gent	masc	NOUN	0	0
 ломать	0	21	4	1	133					INFN	conj	болеет				VERB	0	0	
 над	0	21	4	1	134					PREP	case	лечением	inan	ablt	neut	NOUN	0	0	
 лечением	0	21	4	1	135	inan	ablt	neut		NOUN	obl	ломать				INFN	0	0	sing
-соф	0	21	4	2	136	inan	gent	femn		NOUN	obj	вел			masc	VERB	0	0	plur
-вел	0	21	4	2	137			masc		VERB	ROOT	вел			masc	VERB	0	0	sing
+соф	0	21	4	2	136	inan	gent	femn		NOUN	obj	вел			masc	VERB	1	136	plur
+вел	0	21	4	2	137			masc		VERB	ROOT	вел			masc	VERB	1	136	sing
 выходит	0	21	4	2	138				3per	VERB	xcomp	вел			masc	VERB	0	0	sing
 может	0	21	4	3	139				3per	VERB	ROOT	может				VERB	0	0	sing
 и	0	21	4	3	140					CONJ	advmod	заговор	inan	nomn	masc	NOUN	0	0	
@@ -18139,16 +18139,16 @@ katkat	1	21	2	0	74						punct	писал(а	inan	gent	masc	NOUN	0	0
 статистике	0	21	4	3	145	inan	datv	femn		NOUN	obl	хуже				COMP	0	0	sing
 форума	0	21	4	3	146	inan	gent	masc		NOUN	nmod	статистике	inan	datv	femn	NOUN	0	0	sing
 на	0	21	4	3	147					PREP	case	соф	inan	gent	femn	NOUN	0	0	
-соф	0	21	4	3	148	inan	gent	femn		NOUN	nmod	форума	inan	gent	masc	NOUN	0	0	plur
-даке	0	21	4	3	149	inan	datv	femn		NOUN	nmod	соф	inan	gent	femn	NOUN	0	0	sing
+соф	0	21	4	3	148	inan	gent	femn		NOUN	nmod	форума	inan	gent	masc	NOUN	1	148	plur
+даке	0	21	4	3	149	inan	datv	femn		NOUN	nmod	соф	inan	gent	femn	NOUN	1	149	sing
 результаты	0	21	4	3	150	inan	nomn	masc		NOUN	nsubj	хуже				COMP	0	0	plur
 не	0	21	4	3	151					PRCL	advmod	хуже				COMP	0	0	
 хуже	0	21	4	3	152					COMP	conj	может				VERB	0	0	
 чем	0	21	4	3	153					CONJ	mark	вел			masc	VERB	0	0	
 на	0	21	4	3	154					PREP	case	схеме	inan	datv	femn	NOUN	0	0	
 схеме	0	21	4	3	155	inan	datv	femn		NOUN	obl	вел			masc	VERB	0	0	sing
-соф	0	21	4	3	156	inan	gent	femn		NOUN	nsubj	вел			masc	VERB	0	0	plur
-вел	0	21	4	3	157			masc		VERB	advcl	хуже				COMP	0	0	sing
+соф	0	21	4	3	156	inan	gent	femn		NOUN	nsubj	вел			masc	VERB	1	156	plur
+вел	0	21	4	3	157			masc		VERB	advcl	хуже				COMP	1	156	sing
 katkat	1	21	5	0	158						punct	писал(а	inan	gent	masc	NOUN	0	0	
 писал(а	1	21	5	0	159	inan	gent	masc		NOUN	ROOT	писал(а	inan	gent	masc	NOUN	0	0	sing
 4	1	21	5	0	160						nummod	июл					0	0	
