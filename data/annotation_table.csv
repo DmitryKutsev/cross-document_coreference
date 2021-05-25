@@ -1,6 +1,6 @@
 TOKEN	IS_ANSWER	TOPIC_NUM	POST_NUM	SENT_NUM	TOKEN_NUM	ANIMACY	CASE	GENDER	PERSON	POS	DEPENDENCY	HEAD	HEAD_ANIMACY	HEAD_CASE	HEAD_GENDER	HEAD_POS	NER	COREFERENCE_CLUSTER	NUMBER
 обсуждаем	0	1	0	0	0				1per	VERB	ROOT	обсуждаем				VERB	0	0	plur
-препарат	0	1	0	0	1	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	0	0	sing
+препарат	0	1	0	0	1	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	2	0	sing
 рисперидон	0	1	0	0	2	anim	nomn	masc		NOUN	appos	препарат	inan	nomn	masc	NOUN	1	2	sing
 рисполепт	0	1	0	0	3	inan	gent	femn		NOUN	parataxis	рисперидон	anim	nomn	masc	NOUN	1	3	plur
 сперидан	0	1	0	0	4			masc		PRTS	conj	рисполепт	inan	gent	femn	NOUN	1	4	sing
@@ -392,7 +392,7 @@ p.s	1	1	2	6	367						ROOT	p.s					0	0
 в	0	1	3	1	390					PREP	case	свойствами	inan	ablt	neut	NOUN	0	0	
 адреноблоеирующими	0	1	3	1	391		ablt			PRTF	amod	свойствами	inan	ablt	neut	NOUN	0	0	plur
 свойствами	0	1	3	1	392	inan	ablt	neut		NOUN	obl	связанное		nomn	neut	ADJF	0	0	plur
-препарата	0	1	3	1	393	inan	gent	masc		NOUN	nmod	свойствами	inan	ablt	neut	NOUN	1	382	sing
+препарата	0	1	3	1	393	inan	gent	masc		NOUN	nmod	свойствами	inan	ablt	neut	NOUN	2	382	sing
 флюанксол	0	1	3	2	394	inan	nomn	masc		NOUN	nsubj	мог			masc	VERB	1	394	sing
 в	0	1	3	2	395					PREP	case	дозировках	inan	loct	femn	NOUN	0	0	
 низких	0	1	3	2	396		gent			ADJF	amod	дозировках	inan	loct	femn	NOUN	0	0	plur
@@ -1228,7 +1228,7 @@ ps	0	2	9	3	636						appos	"					0	0
 http://neuroleptic.r	0	2	9	3	645						appos	зелдоксе	inan	loct	masc	NOUN	0	0	
 /about1383.html	0	2	9	3	646						punct	подозреваю				VERB	0	0	
 обсуждаем	0	2	10	0	647				1per	VERB	ROOT	обсуждаем				VERB	0	0	plur
-препарат	0	2	10	0	648	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	0	0	sing
+препарат	0	2	10	0	648	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	2	0	sing
 зелдокс	0	2	10	0	649	inan	nomn	masc		NOUN	appos	препарат	inan	nomn	masc	NOUN	1	649	sing
 зипрасидон	0	2	10	0	650	anim	nomn	masc		NOUN	appos	зелдокс	inan	nomn	masc	NOUN	1	650	sing
 специалисты	0	2	11	0	651	anim	nomn	masc		NOUN	nsubj	подскажите				VERB	0	0	plur
@@ -1882,7 +1882,7 @@ ps	0	2	19	3	1283						appos	"					0	0
 http://neuroleptic.r	0	2	19	3	1292						appos	зелдоксе	inan	loct	masc	NOUN	0	0	
 /about1383.html	0	2	19	3	1293						punct	подозреваю				VERB	0	0	
 обсуждаем	0	3	0	0	0				1per	VERB	ROOT	обсуждаем				VERB	0	0	plur
-препарат	0	3	0	0	1	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	0	0	sing
+препарат	0	3	0	0	1	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	2	0	sing
 оланзапин	0	3	0	0	2	inan	gent	femn		NOUN	appos	препарат	inan	nomn	masc	NOUN	1	2	plur
 зипрекса	0	3	0	0	3	anim	gent	masc		NOUN	parataxis	оланзапин	inan	gent	femn	NOUN	1	3	sing
 заласта	0	3	0	0	4	inan	gent	masc		NOUN	conj	зипрекса	anim	gent	masc	NOUN	1	4	sing
@@ -2429,7 +2429,7 @@ svetik78	1	3	7	0	483						punct	"					0	0
 в	1	3	7	4	534					PREP	case	препарата	inan	gent	masc	NOUN	0	0	
 качестве	1	3	7	4	535	inan	loct	neut		NOUN	fixed	в				PREP	0	0	sing
 поддерживающего	1	3	7	4	536		gent	masc		PRTF	amod	препарата	inan	gent	masc	NOUN	0	0	sing
-препарата	1	3	7	4	537	inan	gent	masc		NOUN	obl	назначили				VERB	0	0	sing
+препарата	1	3	7	4	537	inan	gent	masc		NOUN	obl	назначили				VERB	2	0	sing
 вам	1	3	7	4	538		datv		2per	NPRO	iobj	назначили				VERB	0	0	plur
 назначили	1	3	7	4	539					VERB	ROOT	назначили				VERB	0	0	plur
 зипрексу?3.дозировки	1	3	7	4	540	inan	gent	femn		NOUN	obj	назначили				VERB	1	540	sing
@@ -2882,7 +2882,7 @@ january	0	3	15	2	973						appos	published					0	0
 по	0	3	15	2	983					PREP	case	навязыванию	inan	datv	neut	NOUN	0	0	
 опосредованному	0	3	15	2	984		datv	masc		PRTF	amod	навязыванию	inan	datv	neut	NOUN	0	0	sing
 навязыванию	0	3	15	2	985	inan	datv	neut		NOUN	nmod	план	inan	accs	masc	NOUN	0	0	sing
-препарата	0	3	15	2	986	inan	gent	masc		NOUN	nmod	навязыванию	inan	datv	neut	NOUN	0	0	sing
+препарата	0	3	15	2	986	inan	gent	masc		NOUN	nmod	навязыванию	inan	datv	neut	NOUN	2	949	sing
 зипрекса(оланзапин	0	3	15	2	987	inan	gent	femn		NOUN	appos	препарата	inan	gent	masc	NOUN	1	987	plur
 детям	0	3	15	2	988	anim	datv	masc		NOUN	iobj	"					0	0	
 																	0	0	
@@ -3244,7 +3244,7 @@ svetik78	1	3	17	0	1287						punct	"					0	0
 в	1	3	17	4	1338					PREP	case	препарата	inan	gent	masc	NOUN	0	0	
 качестве	1	3	17	4	1339	inan	loct	neut		NOUN	fixed	в				PREP	0	0	sing
 поддерживающего	1	3	17	4	1340		gent	masc		PRTF	amod	препарата	inan	gent	masc	NOUN	0	0	sing
-препарата	1	3	17	4	1341	inan	gent	masc		NOUN	obl	назначили				VERB	0	0	sing
+препарата	1	3	17	4	1341	inan	gent	masc		NOUN	obl	назначили				VERB	2	0	sing
 вам	1	3	17	4	1342		datv		2per	NPRO	iobj	назначили				VERB	0	0	plur
 назначили	1	3	17	4	1343					VERB	ROOT	назначили				VERB	0	0	plur
 зипрексу?3.дозировки	1	3	17	4	1344	inan	gent	femn		NOUN	obj	назначили				VERB	1	1344	sing
@@ -4017,7 +4017,7 @@ kрка	0	3	23	12	2106	inan	nomn	neut		NOUN	appos	компании	inan	gent	fem
 продавать	0	3	23	12	2107					INFN	xcomp	позволила			femn	VERB	0	0	
 свои	0	3	23	12	2108	inan	accs			ADJF	det	препараты	inan	nomn	masc	NOUN	0	0	plur
 лекарственные	0	3	23	12	2109		nomn			ADJF	amod	препараты	inan	nomn	masc	NOUN	0	0	plur
-препараты	0	3	23	12	2110	inan	nomn	masc		NOUN	obj	продавать				INFN	0	0	plur
+препараты	0	3	23	12	2110	inan	nomn	masc		NOUN	obj	продавать				INFN	2	2084	plur
 содержащие	0	3	23	12	2111		nomn			PRTF	acl	препараты	inan	nomn	masc	NOUN	0	0	plur
 в	0	3	23	12	2112					PREP	case	вещества	inan	gent	neut	NOUN	0	0	
 качестве	0	3	23	12	2113	inan	loct	neut		NOUN	fixed	в				PREP	0	0	sing
@@ -5001,7 +5001,7 @@ shef	1	3	36	5	3040						ROOT	shef					0	0
 заложено	1	3	36	6	3082			neut		PRTS	ROOT	заложено			neut	PRTS	0	0	sing
 в	1	3	36	6	3083					PREP	case	цене	inan	datv	femn	NOUN	0	0	
 цене	1	3	36	6	3084	inan	datv	femn		NOUN	obl	заложено			neut	PRTS	0	0	sing
-препарата	1	3	36	6	3085	inan	gent	masc		NOUN	nmod	цене	inan	datv	femn	NOUN	0	0	sing
+препарата	1	3	36	6	3085	inan	gent	masc		NOUN	nmod	цене	inan	datv	femn	NOUN	2	3059	sing
 при	1	3	36	7	3086					PREP	case	этом		loct	neut	NPRO	0	0	
 этом	1	3	36	7	3087		loct	neut		NPRO	obl	было			neut	VERB	0	0	sing
 так	1	3	36	7	3088					CONJ	advmod	было			neut	VERB	0	0	
@@ -5099,7 +5099,7 @@ http://neuroleptic.r	1	3	37	1	3176						nsubj	"					0	0
 "						0											0	0	
 cles	1	3	37	1	3177						appos	http://neuroleptic.r					0	0	
 art14.html	1	3	37	1	3178						flat:foreign	cles					0	0	
-препарат	1	3	37	1	3179	inan	nomn	masc		NOUN	obj	"					0	0	
+препарат	1	3	37	1	3179	inan	nomn	masc		NOUN	obj	"					2	0	
 																	0	0	
 "						0	sing										0	0	
 опухоль	1	3	37	1	3180	inan	nomn	femn		NOUN	obj	"					0	0	
@@ -6271,7 +6271,7 @@ admin	1	5	1	0	4						ROOT	admin					0	0
 19.9.2006	1	5	1	0	6						nummod	обсуждаем				VERB	0	0	
 0:29	1	5	1	0	7						conj	19.9.2006					0	0	
 обсуждаем	1	5	1	0	8				1per	VERB	ROOT	обсуждаем				VERB	0	0	plur
-препарат	1	5	1	0	9	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	0	0	sing
+препарат	1	5	1	0	9	inan	nomn	masc		NOUN	obj	обсуждаем				VERB	2	0	sing
 тиаприд	1	5	1	0	10	anim	nomn	masc		NOUN	appos	препарат	inan	nomn	masc	NOUN	1	10	sing
 тиапридал	1	5	1	0	11			masc		VERB	appos	тиаприд	anim	nomn	masc	NOUN	1	11	sing
 может	1	5	1	0	12				3per	VERB	ROOT	может				VERB	0	0	sing
@@ -6796,7 +6796,7 @@ admin	1	5	11	0	233						ROOT	admin					0	0
 он	0	5	21	0	531		nomn	masc	3per	NPRO	nsubj	стоит				VERB	3	521	sing
 и	0	5	21	0	532					CONJ	cc	нейролептик	inan	nomn	masc	NOUN	0	0	
 малый	0	5	21	0	533	anim	nomn	masc		NOUN	amod	нейролептик	inan	nomn	masc	NOUN	0	0	sing
-нейролептик	0	5	21	0	534	inan	nomn	masc		NOUN	conj	он		nomn	masc	NPRO	0	0	sing
+нейролептик	0	5	21	0	534	inan	nomn	masc		NOUN	conj	он		nomn	masc	NPRO	2	521	sing
 все	0	5	21	0	535					PRCL	advmod	так				CONJ	0	0	
 так	0	5	21	0	536					CONJ	advmod	стоит				VERB	0	0	
 при	0	5	21	0	537					PREP	case	неврозах	inan	loct	masc	NOUN	0	0	
@@ -6823,7 +6823,7 @@ admin	1	5	11	0	233						ROOT	admin					0	0
 пытаются	0	5	21	1	558				3per	VERB	ROOT	пытаются				VERB	0	0	plur
 запихнуть	0	5	21	1	559					INFN	xcomp	пытаются				VERB	0	0	
 свои	0	5	21	1	560	inan	accs			ADJF	det	препараты	inan	nomn	masc	NOUN	0	0	plur
-препараты	0	5	21	1	561	inan	nomn	masc		NOUN	obj	запихнуть				INFN	2	0	plur
+препараты	0	5	21	1	561	inan	nomn	masc		NOUN	obj	запихнуть				INFN	2	521	plur
 во	0	5	21	1	562					PREP	case	стандарты	inan	nomn	masc	NOUN	0	0	
 все	0	5	21	1	563					PRCL	det	стандарты	inan	nomn	masc	NOUN	0	0	
 стандарты	0	5	21	1	564	inan	nomn	masc		NOUN	obl	запихнуть				INFN	0	0	plur
@@ -6847,7 +6847,7 @@ admin	1	5	11	0	233						ROOT	admin					0	0
 off	0	5	21	1	582						discourse	что				CONJ	0	0	
 label	0	5	21	1	583						flat:foreign	off					0	0	
 выписывали	0	5	21	1	584					VERB	xcomp	подкупают				VERB	0	0	plur
-препараты	0	5	21	1	585	inan	nomn	masc		NOUN	obj	выписывали				VERB	0	0	plur
+препараты	0	5	21	1	585	inan	nomn	masc		NOUN	obj	выписывали				VERB	2	521	plur
 очень	0	5	22	0	586					ADVB	advmod	хорошо				ADVB	0	0	
 хорошо	0	5	22	0	587					ADVB	advmod	помогает				VERB	0	0	
 помогает	0	5	22	0	588				3per	VERB	ROOT	помогает				VERB	0	0	sing
@@ -7122,7 +7122,7 @@ https://www.ncbi.nlm	0	5	24	1	756						nsubj	может				VERB	0	0
 может	0	5	28	6	845				3per	VERB	ROOT	может				VERB	0	0	sing
 нужно	0	5	28	6	846					PRED	xcomp	может				VERB	0	0	
 накопление	0	5	28	6	847	inan	nomn	neut		NOUN	nsubj	может				VERB	0	0	sing
-препарата	0	5	28	6	848	inan	gent	masc		NOUN	nmod	накопление	inan	nomn	neut	NOUN	0	0	sing
+препарата	0	5	28	6	848	inan	gent	masc		NOUN	nmod	накопление	inan	nomn	neut	NOUN	2	805	sing
 вообще	0	5	28	7	849					ADVB	parataxis	нужен			masc	ADJS	0	0	
 мне	0	5	28	7	850		datv		1per	NPRO	iobj	нужен			masc	ADJS	0	0	sing
 нужен	0	5	28	7	851			masc		ADJS	ROOT	нужен			masc	ADJS	0	0	sing
