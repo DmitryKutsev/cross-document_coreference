@@ -15155,7 +15155,7 @@ hifu	1	15	17	12	2167						obj	начинаем				VERB	1	2167
 что	0	16	1	3	30					CONJ	mark	можно				PRED	0	0	
 можно	0	16	1	3	31					PRED	ccomp	сказал			masc	VERB	0	0	
 и	0	16	1	4	32					CONJ	cc	привился			masc	VERB	0	0	
-он	0	16	1	4	33		nomn	masc	3per	NPRO	nsubj	привился			masc	VERB	0	0	sing
+он	0	16	1	4	33		nomn	masc	3per	NPRO	nsubj	привился			masc	VERB	3	0	sing
 привился	0	16	1	4	34			masc		VERB	ROOT	привился			masc	VERB	0	0	sing
 два	0	16	1	5	35		nomn	masc		NUMR	nummod:gov	дня	inan	gent	masc	NOUN	0	0	
 дня	0	16	1	5	36	inan	gent	masc		NOUN	obl	была			femn	VERB	0	0	sing
@@ -15180,11 +15180,11 @@ hifu	1	15	17	12	2167						obj	начинаем				VERB	1	2167
 быстро	0	16	3	0	55					ADVB	advmod	проводились				VERB	0	0	
 проводились	0	16	3	0	56					VERB	ccomp	кажется				VERB	0	0	plur
 испытания	0	16	3	0	57	inan	nomn	neut		NOUN	nsubj:pass	проводились				VERB	0	0	plur
-вакцины	0	16	3	0	58	inan	nomn	femn		NOUN	nmod	испытания	inan	nomn	neut	NOUN	0	0	plur
+вакцины	0	16	3	0	58	inan	nomn	femn		NOUN	nmod	испытания	inan	nomn	neut	NOUN	2	0	plur
 неизвестно	0	16	3	0	59					ADVB	ROOT	неизвестно				ADVB	0	0	
 как	0	16	3	0	60					CONJ	mark	аукнется				VERB	0	0	
 эта	0	16	3	0	61		nomn	femn		ADJF	det	вакцина	inan	nomn	femn	NOUN	0	0	sing
-вакцина	0	16	3	0	62	inan	nomn	femn		NOUN	nsubj	аукнется				VERB	0	0	sing
+вакцина	0	16	3	0	62	inan	nomn	femn		NOUN	nsubj	аукнется				VERB	2	0	sing
 аукнется	0	16	3	0	63				3per	VERB	csubj	неизвестно				ADVB	0	0	sing
 на	0	16	3	0	64					PREP	case	организме	inan	loct	masc	NOUN	0	0	
 организме	0	16	3	0	65	inan	loct	masc		NOUN	obl	аукнется				VERB	0	0	sing
@@ -15375,7 +15375,7 @@ hifu	1	15	17	12	2167						obj	начинаем				VERB	1	2167
 два	1	16	7	1	248		nomn	masc		NUMR	nummod:gov	месяца	inan	gent	masc	NOUN	0	0	
 назад	1	16	7	1	249					ADVB	advmod	два		nomn	masc	NUMR	0	0	
 производители	1	16	7	1	250	anim	nomn	masc		NOUN	nsubj	обещали				VERB	0	0	plur
-вакцины	1	16	7	1	251	inan	nomn	femn		NOUN	nmod	производители	anim	nomn	masc	NOUN	0	0	plur
+вакцины	1	16	7	1	251	inan	nomn	femn		NOUN	nmod	производители	anim	nomn	masc	NOUN	2	0	plur
 обещали	1	16	7	1	252					VERB	ROOT	обещали				VERB	0	0	plur
 провести	1	16	7	1	253					INFN	xcomp	обещали				VERB	0	0	
 испытания	1	16	7	1	254	inan	nomn	neut		NOUN	obj	провести				INFN	0	0	plur
@@ -15429,7 +15429,7 @@ hifu	1	15	17	12	2167						obj	начинаем				VERB	1	2167
 сказал	0	16	8	2	302			masc		VERB	ROOT	сказал			masc	VERB	0	0	sing
 что	0	16	8	2	303					CONJ	mark	можно				PRED	0	0	
 мне	0	16	8	2	304		datv		1per	NPRO	iobj	можно				PRED	0	0	sing
-эпиваккорону	0	16	8	2	305	inan	accs	femn		NOUN	appos	мне		datv		NPRO	0	0	sing
+эпиваккорону	0	16	8	2	305	inan	accs	femn		NOUN	appos	мне		datv		NPRO	1	305	sing
 можно	0	16	8	2	306					PRED	ccomp	сказал			masc	VERB	0	0	
 но	0	16	8	3	307					CONJ	cc	нет				PRED	0	0	
 по	0	16	8	3	308					PREP	case	месту	inan	datv	neut	NOUN	0	0	
@@ -15437,7 +15437,7 @@ hifu	1	15	17	12	2167						obj	начинаем				VERB	1	2167
 жительства	0	16	8	3	310	inan	gent	neut		NOUN	nmod	месту	inan	datv	neut	NOUN	0	0	sing
 пока	0	16	8	3	311					ADVB	advmod	нет				PRED	0	0	
 нет	0	16	8	3	312					PRED	ROOT	нет				PRED	0	0	
-эпиваккороны	0	16	8	3	313	inan	gent	femn		NOUN	nsubj	нет				PRED	0	0	sing
+эпиваккороны	0	16	8	3	313	inan	gent	femn		NOUN	nsubj	нет				PRED	1	313	sing
 да	0	16	8	4	314					PRCL	cc	вылезу				VERB	0	0	
 я	0	16	8	4	315		nomn		1per	NPRO	nsubj	вылезу				VERB	0	0	sing
 и	0	16	8	4	316					CONJ	advmod	обострения	inan	gent	neut	NOUN	0	0	
@@ -15472,7 +15472,7 @@ hifu	1	15	17	12	2167						obj	начинаем				VERB	1	2167
 вак	0	16	9	0	345	inan	nomn	masc		NOUN	conj	наименование	inan	nomn	neut	NOUN	0	0	sing
 комбинированная	0	16	9	0	346		nomn	femn		ADJF	amod	вакцина	inan	nomn	femn	NOUN	0	0	sing
 векторная	0	16	9	0	347		nomn	femn		ADJF	amod	вакцина	inan	nomn	femn	NOUN	0	0	sing
-вакцина	0	16	9	0	348	inan	nomn	femn		NOUN	conj	наименование	inan	nomn	neut	NOUN	0	0	sing
+вакцина	0	16	9	0	348	inan	nomn	femn		NOUN	conj	наименование	inan	nomn	neut	NOUN	2	0	sing
 для	0	16	9	0	349					PREP	case	профилактики	inan	gent	femn	NOUN	0	0	
 профилактики	0	16	9	0	350	inan	gent	femn		NOUN	nmod	вакцина	inan	nomn	femn	NOUN	0	0	sing
 коронавирусной	0	16	9	0	351		gent	femn		ADJF	amod	инфекции	inan	gent	femn	NOUN	0	0	sing
@@ -15571,7 +15571,7 @@ cov-2	0	16	9	0	356						appos	вирусом	inan	ablt	masc	NOUN	0	0
 ковид	0	16	10	1	444	inan	nomn	masc		NOUN	nsubj	новая		nomn	femn	ADJF	0	0	sing
 болезнь	0	16	10	1	445	inan	nomn	femn		NOUN	nsubj	новая		nomn	femn	ADJF	0	0	sing
 новая	0	16	10	1	446		nomn	femn		ADJF	ROOT	новая		nomn	femn	ADJF	0	0	sing
-вакцины	0	16	10	1	447	inan	nomn	femn		NOUN	conj	новая		nomn	femn	ADJF	0	0	plur
+вакцины	0	16	10	1	447	inan	nomn	femn		NOUN	conj	новая		nomn	femn	ADJF	2	0	plur
 все	0	16	10	1	448					PRCL	det	новые		nomn		ADJF	0	0	
 новые	0	16	10	1	449		nomn			ADJF	amod	вакцины	inan	nomn	femn	NOUN	0	0	plur
 опыта	0	16	10	1	450	inan	gent	masc		NOUN	conj	новая		nomn	femn	ADJF	0	0	sing
@@ -15604,11 +15604,11 @@ cov-2	0	16	9	0	356						appos	вирусом	inan	ablt	masc	NOUN	0	0
 писал	1	16	11	0	477			masc		VERB	ROOT	писал			masc	VERB	0	0	sing
 сейчас	1	16	11	0	478					ADVB	advmod	недопроверенные		nomn		PRTF	0	0	
 все	1	16	11	0	479					PRCL	det	вакцины	inan	nomn	femn	NOUN	0	0	
-вакцины	1	16	11	0	480	inan	nomn	femn		NOUN	nsubj	недопроверенные		nomn		PRTF	0	0	plur
+вакцины	1	16	11	0	480	inan	nomn	femn		NOUN	nsubj	недопроверенные		nomn		PRTF	2	0	plur
 на	1	16	11	0	481					PREP	case	свете	inan	loct	masc	NOUN	0	0	
 свете	1	16	11	0	482	inan	loct	masc		NOUN	obl	недопроверенные		nomn		PRTF	0	0	sing
 недопроверенные	1	16	11	0	483		nomn			PRTF	ROOT	недопроверенные		nomn		PRTF	0	0	plur
-вакцину	1	16	11	1	484	inan	accs	femn		NOUN	obj	делают				VERB	0	0	sing
+вакцину	1	16	11	1	484	inan	accs	femn		NOUN	obj	делают				VERB	2	0	sing
 же	1	16	11	1	485					PRCL	advmod	вакцину	inan	accs	femn	NOUN	0	0	
 от	1	16	11	1	486					PREP	case	ковида	inan	gent	masc	NOUN	0	0	
 ковида	1	16	11	1	487	inan	gent	masc		NOUN	obl	делают				VERB	0	0	sing
@@ -15638,7 +15638,7 @@ cov-2	0	16	9	0	356						appos	вирусом	inan	ablt	masc	NOUN	0	0
 "						0	sing										0	0	
 что	1	16	11	1	510					CONJ	mark	показана			femn	PRTS	0	0	
 эта	1	16	11	1	511		nomn	femn		ADJF	det	вакцина	inan	nomn	femn	NOUN	0	0	sing
-вакцина	1	16	11	1	512	inan	nomn	femn		NOUN	nsubj:pass	показана			femn	PRTS	0	0	sing
+вакцина	1	16	11	1	512	inan	nomn	femn		NOUN	nsubj:pass	показана			femn	PRTS	2	0	sing
 показана	1	16	11	1	513			femn		PRTS	ccomp	уверена			femn	PRTS	0	0	sing
 думаю	1	16	11	2	514				1per	VERB	ROOT	думаю				VERB	0	0	sing
 что	1	16	11	2	515					CONJ	mark	индивидуально				ADVB	0	0	
@@ -15793,7 +15793,7 @@ cov-2	0	16	9	0	356						appos	вирусом	inan	ablt	masc	NOUN	0	0
 во	0	16	15	2	664					PREP	case	случаях	inan	loct	masc	NOUN	0	0	
 многих	0	16	15	2	665		gent			ADJF	amod	случаях	inan	loct	masc	NOUN	0	0	plur
 случаях	0	16	15	2	666	inan	loct	masc		NOUN	obl	спасти				INFN	0	0	plur
-химиотерапия	0	16	15	2	667	inan	nomn	femn		NOUN	obj	спасти				INFN	0	0	sing
+химиотерапия	0	16	15	2	667	inan	nomn	femn		NOUN	obj	спасти				INFN	2	0	sing
 способ	0	16	15	2	668	inan	nomn	masc		NOUN	obj	спасти				INFN	0	0	sing
 спасти	0	16	15	2	669					INFN	ROOT	спасти				INFN	0	0	
 или	0	16	15	2	670					CONJ	cc	продлить				INFN	0	0	
@@ -15822,7 +15822,7 @@ cov-2	0	16	9	0	356						appos	вирусом	inan	ablt	masc	NOUN	0	0
 придумали	0	16	15	2	693					VERB	conj	тьмущая		nomn	femn	ADJF	0	0	plur
 я	0	16	16	0	694		nomn		1per	NPRO	nsubj	противник	anim	nomn	masc	NOUN	0	0	sing
 противник	0	16	16	0	695	anim	nomn	masc		NOUN	ROOT	противник	anim	nomn	masc	NOUN	0	0	sing
-прививки	0	16	16	0	696	inan	gent	femn		NOUN	obj	противник	anim	nomn	masc	NOUN	0	0	sing
+прививки	0	16	16	0	696	inan	gent	femn		NOUN	obj	противник	anim	nomn	masc	NOUN	2	0	sing
 от	0	16	16	0	697					PREP	case	covid					0	0	
 covid	0	16	16	0	698						nmod	прививки	inan	gent	femn	NOUN	0	0	
 19	0	16	16	0	699						appos	covid					0	0	
@@ -15843,7 +15843,7 @@ covid	0	16	16	0	698						nmod	прививки	inan	gent	femn	NOUN	0	0
 же	0	16	16	0	714					PRCL	advmod	тут				ADVB	0	0	
 находится	0	16	16	0	715				3per	VERB	advcl	изучены				PRTS	0	0	sing
 чудо	0	16	16	0	716	inan	nomn	neut		NOUN	nsubj	находится				VERB	0	0	sing
-вакцина	0	16	16	0	717	inan	nomn	femn		NOUN	nmod	чудо	inan	nomn	neut	NOUN	0	0	sing
+вакцина	0	16	16	0	717	inan	nomn	femn		NOUN	nmod	чудо	inan	nomn	neut	NOUN	2	0	sing
 от	0	16	16	0	718					PREP	case	которой		gent	femn	ADJF	0	0	
 которой	0	16	16	0	719		gent	femn		ADJF	nmod	вакцина	inan	nomn	femn	NOUN	0	0	sing
 мрут	0	16	16	0	720				3per	VERB	parataxis	противник	anim	nomn	masc	NOUN	0	0	plur
@@ -15884,7 +15884,7 @@ covid	0	16	16	0	698						nmod	прививки	inan	gent	femn	NOUN	0	0
 и	0	16	17	3	755					CONJ	cc	может				VERB	0	0	
 врач	0	16	17	3	756	anim	nomn	masc		NOUN	nsubj	может				VERB	0	0	sing
 против	0	16	17	3	757					PREP	case	химиотерапии	inan	gent	femn	NOUN	0	0	
-химиотерапии	0	16	17	3	758	inan	gent	femn		NOUN	nmod	врач	anim	nomn	masc	NOUN	0	0	sing
+химиотерапии	0	16	17	3	758	inan	gent	femn		NOUN	nmod	врач	anim	nomn	masc	NOUN	2	0	sing
 может	0	16	17	3	759				3per	VERB	ROOT	может				VERB	0	0	sing
 быть	0	16	17	3	760					INFN	cop	вообще				ADVB	0	0	
 не	0	16	17	3	761					PRCL	advmod	вообще				ADVB	0	0	
@@ -15943,7 +15943,7 @@ covid	0	16	16	0	698						nmod	прививки	inan	gent	femn	NOUN	0	0
 прививок	1	16	18	1	814	inan	gent	femn		NOUN	acl:relcl	доктора	anim	gent	masc	NOUN	0	0	plur
 так	1	16	18	1	815					CONJ	advmod	химиотерапий	inan	gent	femn	NOUN	0	0	
 и	1	16	18	1	816					CONJ	fixed	так				CONJ	0	0	
-химиотерапий	1	16	18	1	817	inan	gent	femn		NOUN	nmod	прививок	inan	gent	femn	NOUN	0	0	plur
+химиотерапий	1	16	18	1	817	inan	gent	femn		NOUN	nmod	прививок	inan	gent	femn	NOUN	2	0	plur
 маме	1	16	18	2	818	anim	datv	femn		NOUN	iobj	становится				VERB	0	0	sing
 становится	1	16	18	2	819				3per	VERB	ROOT	становится				VERB	0	0	sing
 лучше	1	16	18	2	820					COMP	xcomp	становится				VERB	0	0	
@@ -16065,7 +16065,7 @@ covid	1	16	19	0	920						nmod	прививки	inan	gent	femn	NOUN	0	0
 же	1	16	19	0	936					PRCL	advmod	тут				ADVB	0	0	
 находится	1	16	19	0	937				3per	VERB	advcl	изучены				PRTS	0	0	sing
 чудо	1	16	19	0	938	inan	nomn	neut		NOUN	nsubj	находится				VERB	0	0	sing
-вакцина	1	16	19	0	939	inan	nomn	femn		NOUN	nmod	чудо	inan	nomn	neut	NOUN	0	0	sing
+вакцина	1	16	19	0	939	inan	nomn	femn		NOUN	nmod	чудо	inan	nomn	neut	NOUN	2	0	sing
 от	1	16	19	0	940					PREP	case	которой		gent	femn	ADJF	0	0	
 которой	1	16	19	0	941		gent	femn		ADJF	nmod	вакцина	inan	nomn	femn	NOUN	0	0	sing
 мрут	1	16	19	0	942				3per	VERB	parataxis	противник	anim	nomn	masc	NOUN	0	0	plur
@@ -16086,7 +16086,7 @@ covid	1	16	19	0	920						nmod	прививки	inan	gent	femn	NOUN	0	0
 стране	1	16	19	2	957	inan	loct	femn		NOUN	ROOT	стране	inan	loct	femn	NOUN	0	0	sing
 элементарно	1	16	19	2	958					ADVB	advmod	взять				INFN	0	0	
 взять	1	16	19	2	959					INFN	nmod	стране	inan	loct	femn	NOUN	0	0	
-кагоцел	1	16	19	2	960			masc		ADJS	obj	взять				INFN	0	0	sing
+кагоцел	1	16	19	2	960			masc		ADJS	obj	взять				INFN	1	960	sing
 который	1	16	19	2	961		nomn	masc		ADJF	nsubj	запрещён			masc	PRTS	0	0	sing
 во	1	16	19	2	962					PREP	case	мире	inan	loct	masc	NOUN	0	0	
 всем	1	16	19	2	963		datv			ADJF	det	мире	inan	loct	masc	NOUN	0	0	plur
@@ -16522,7 +16522,7 @@ terapiei.html	0	17	0	15	206						punct	источник	inan	nomn	masc	NOUN	0	0
 ждать	0	18	6	2	204					INFN	ccomp	сказал			masc	VERB	0	0	
 и	0	18	6	2	205					CONJ	cc	неизвестно				ADVB	0	0	
 что	0	18	6	2	206					CONJ	mark	неизвестно				ADVB	0	0	
-они	0	18	6	2	207		nomn		3per	NPRO	nsubj	неизвестно				ADVB	0	0	plur
+они	0	18	6	2	207		nomn		3per	NPRO	nsubj	неизвестно				ADVB	3	0	plur
 будут	0	18	6	2	208				3per	VERB	cop	неизвестно				ADVB	0	0	plur
 неизвестно	0	18	6	2	209					ADVB	conj	ждать				INFN	0	0	
 когда	0	18	6	2	210					CONJ	advmod	неизвестно				ADVB	0	0	
@@ -16585,7 +16585,7 @@ terapiei.html	0	17	0	15	206						punct	источник	inan	nomn	masc	NOUN	0	0
 контрастом	0	18	6	5	267	inan	ablt	masc		NOUN	nmod	кт					0	0	sing
 но	0	18	6	5	268					CONJ	cc	описать				INFN	0	0	
 описать	0	18	6	5	269					INFN	conj	было			neut	VERB	0	0	
-его	0	18	6	5	270		accs	masc	3per	NPRO	obj	описать				INFN	0	0	sing
+его	0	18	6	5	270		accs	masc	3per	NPRO	obj	описать				INFN	3	0	sing
 некому	0	18	6	5	271		datv			NPRO	iobj	описать				INFN	0	0	sing
 не	0	18	6	6	272					PRCL	advmod	знаете				VERB	0	0	
 знаете	0	18	6	6	273				2per	VERB	ROOT	знаете				VERB	0	0	plur
@@ -16636,7 +16636,7 @@ terapiei.html	0	17	0	15	206						punct	источник	inan	nomn	masc	NOUN	0	0
 онколог	1	18	7	1	318	anim	nomn	masc		NOUN	nsubj	направлял			masc	VERB	0	0	sing
 мне	1	18	7	1	319		datv		1per	NPRO	iobj	записали				VERB	0	0	sing
 записали	1	18	7	1	320					VERB	conj	съездила			femn	VERB	0	0	plur
-его	1	18	7	1	321		accs	masc	3per	NPRO	obj	записали				VERB	0	0	sing
+его	1	18	7	1	321		accs	masc	3per	NPRO	obj	записали				VERB	2	0	sing
 на	1	18	7	1	322					PREP	case	диск	inan	accs	masc	NOUN	0	0	
 диск	1	18	7	1	323	inan	accs	masc		NOUN	obl	записали				VERB	0	0	sing
 и	1	18	7	1	324					CONJ	cc	сказали				VERB	0	0	
@@ -16690,7 +16690,7 @@ terapiei.html	0	17	0	15	206						punct	источник	inan	nomn	masc	NOUN	0	0
 меня	1	18	7	3	372		accs		1per	NPRO	ccomp	сказала			femn	VERB	0	0	sing
 онкология	1	18	7	3	373	inan	nomn	femn		NOUN	nsubj	меня		accs		NPRO	0	0	sing
 но	1	18	7	4	374					CONJ	cc	сказал			masc	VERB	0	0	
-он	1	18	7	4	375		nomn	masc	3per	NPRO	nsubj	сказал			masc	VERB	0	0	sing
+он	1	18	7	4	375		nomn	masc	3per	NPRO	nsubj	сказал			masc	VERB	3	0	sing
 сказал	1	18	7	4	376			masc		VERB	ROOT	сказал			masc	VERB	0	0	sing
 чтоб	1	18	7	4	377					CONJ	mark	шла			femn	VERB	0	0	
 я	1	18	7	4	378		nomn		1per	NPRO	nsubj	шла			femn	VERB	0	0	sing
@@ -16797,7 +16797,7 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 уже	0	20	0	1	3					ADVB	advmod	тему	inan	accs	femn	NOUN	0	0	
 тему	0	20	0	1	4	inan	accs	femn		NOUN	obj	писала			femn	VERB	0	0	sing
 про	0	20	0	1	5					PREP	case	гемцитабин	anim	nomn	masc	NOUN	0	0	
-гемцитабин	0	20	0	1	6	anim	nomn	masc		NOUN	nmod	тему	inan	accs	femn	NOUN	0	0	sing
+гемцитабин	0	20	0	1	6	anim	nomn	masc		NOUN	nmod	тему	inan	accs	femn	NOUN	1	6	sing
 который	0	20	0	1	7		nomn	masc		ADJF	nsubj	пошел			masc	VERB	0	0	sing
 у	0	20	0	1	8					PREP	case	нас		gent		NPRO	0	0	
 нас	0	20	0	1	9		gent		1per	NPRO	obl	пошел			masc	VERB	0	0	plur
@@ -16814,11 +16814,11 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 нам	0	20	0	1	20		datv		1per	NPRO	iobj	назначили				VERB	0	0	plur
 назначили	0	20	0	1	21					VERB	conj	пошел			masc	VERB	0	0	plur
 пить	0	20	0	1	22					INFN	xcomp	назначили				VERB	0	0	
-капецитабин	0	20	0	1	23	anim	nomn	masc		NOUN	obj	пить				INFN	0	0	sing
+капецитабин	0	20	0	1	23	anim	nomn	masc		NOUN	obj	пить				INFN	1	23	sing
 или	0	20	0	1	24					CONJ	cc	называется				VERB	0	0	
 еще	0	20	0	1	25					ADVB	advmod	называется				VERB	0	0	
 называется	0	20	0	1	26				3per	VERB	conj	пошел			masc	VERB	0	0	sing
-кселода	0	20	0	1	27	inan	nomn	femn		NOUN	nsubj	называется				VERB	0	0	sing
+кселода	0	20	0	1	27	inan	nomn	femn		NOUN	nsubj	называется				VERB	1	27	sing
 маме	0	20	0	2	28	anim	datv	femn		NOUN	iobj	лет	inan	gent	masc	NOUN	0	0	sing
 79	0	20	0	2	29						nummod	лет	inan	gent	masc	NOUN	0	0	
 лет	0	20	0	2	30	inan	gent	masc		NOUN	ROOT	лет	inan	gent	masc	NOUN	0	0	plur
@@ -16841,7 +16841,7 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 от	0	20	0	3	47					PREP	case	химии	inan	gent	femn	NOUN	0	0	
 химии	0	20	0	3	48	inan	gent	femn		NOUN	obl	отходили				VERB	0	0	sing
 с	0	20	0	3	49					PREP	case	гемцитабином	inan	ablt	masc	NOUN	0	0	
-гемцитабином	0	20	0	3	50	inan	ablt	masc		NOUN	obl	отходили				VERB	0	0	sing
+гемцитабином	0	20	0	3	50	inan	ablt	masc		NOUN	obl	отходили				VERB	1	50	sing
 самочувствие	0	20	0	4	51	inan	accs	neut		NOUN	nsubj	вернулось			neut	VERB	0	0	sing
 вернулось	0	20	0	4	52			neut		VERB	ROOT	вернулось			neut	VERB	0	0	sing
 хорошее	0	20	0	4	53		accs	neut		ADJF	nsubj	вернулось			neut	VERB	0	0	sing
@@ -16855,7 +16855,7 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 каждый	0	20	0	4	61	inan	accs	masc		ADJF	det	день	inan	accs	masc	NOUN	0	0	sing
 день	0	20	0	4	62	inan	accs	masc		NOUN	obl	гуляем				VERB	0	0	sing
 таблетки	0	20	0	5	63	inan	accs	femn		NOUN	obj	получила			femn	VERB	0	0	plur
-капецитабина	0	20	0	5	64	anim	gent	masc		NOUN	nmod	таблетки	inan	accs	femn	NOUN	0	0	sing
+капецитабина	0	20	0	5	64	anim	gent	masc		NOUN	nmod	таблетки	inan	accs	femn	NOUN	1	64	sing
 получила	0	20	0	5	65			femn		VERB	ROOT	получила			femn	VERB	0	0	sing
 запланировали	0	20	0	5	66					VERB	conj	получила			femn	VERB	0	0	plur
 с	0	20	0	5	67					PREP	case	понедельника	inan	gent	masc	NOUN	0	0	
@@ -16954,13 +16954,13 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 только	0	20	0	9	160					ADVB	advmod	омез	inan	nomn	masc	NOUN	0	0	
 из	0	20	0	9	161					PREP	case	омез	inan	nomn	masc	NOUN	0	0	
 сопутствующего	0	20	0	9	162		gent	masc		PRTF	amod	омез	inan	nomn	masc	NOUN	0	0	sing
-омез	0	20	0	9	163	inan	nomn	masc		NOUN	obl	выписал			masc	VERB	0	0	sing
+омез	0	20	0	9	163	inan	nomn	masc		NOUN	obl	выписал			masc	VERB	1	163	sing
 и	0	20	0	9	164					CONJ	cc	лоперамид	inan	nomn	masc	NOUN	0	0	
-лоперамид	0	20	0	9	165	inan	nomn	masc		NOUN	conj	омез	inan	nomn	masc	NOUN	0	0	sing
+лоперамид	0	20	0	9	165	inan	nomn	masc		NOUN	conj	омез	inan	nomn	masc	NOUN	1	165	sing
 купила	0	20	0	10	166			femn		VERB	ROOT	купила			femn	VERB	0	0	sing
 желудочный	0	20	0	10	167		nomn	masc		ADJF	amod	кисель	inan	nomn	masc	NOUN	0	0	sing
 кисель	0	20	0	10	168	inan	nomn	masc		NOUN	obj	купила			femn	VERB	0	0	sing
-леовит	0	20	0	10	169			masc		PRTS	conj	купила			femn	VERB	0	0	sing
+леовит	0	20	0	10	169			masc		PRTS	conj	купила			femn	VERB	1	169	sing
 по	0	20	0	10	170					PREP	case	совету	inan	datv	masc	NOUN	0	0	
 совету	0	20	0	10	171	inan	datv	masc		NOUN	obl	леовит			masc	PRTS	0	0	sing
 ираиды	0	20	0	10	172	anim	gent	femn		NOUN	nmod	совету	inan	datv	masc	NOUN	0	0	sing
@@ -17053,8 +17053,8 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 была	0	20	0	15	258			femn		VERB	fixed	только				ADVB	0	0	sing
 первая	0	20	0	15	259		nomn	femn		ADJF	amod	химия	inan	nomn	femn	NOUN	0	0	sing
 химия	0	20	0	15	260	inan	nomn	femn		NOUN	ROOT	химия	inan	nomn	femn	NOUN	0	0	sing
-абраксан	0	20	0	15	261	anim	gent	femn		NOUN	nmod	химия	inan	nomn	femn	NOUN	0	0	plur
-гемцитабин	0	20	0	15	262	anim	nomn	masc		NOUN	nmod	абраксан	anim	gent	femn	NOUN	0	0	sing
+абраксан	0	20	0	15	261	anim	gent	femn		NOUN	nmod	химия	inan	nomn	femn	NOUN	1	261	plur
+гемцитабин	0	20	0	15	262	anim	nomn	masc		NOUN	nmod	абраксан	anim	gent	femn	NOUN	1	262	sing
 даже	0	20	0	16	263					PRCL	advmod	курс	inan	nomn	masc	NOUN	0	0	
 курс	0	20	0	16	264	inan	nomn	masc		NOUN	nsubj	прошли				VERB	0	0	sing
 не	0	20	0	16	265					PRCL	advmod	прошли				VERB	0	0	
@@ -17089,7 +17089,7 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 монорежими	0	20	0	17	294		ablt			ADJF	xcomp	начали				VERB	0	0	plur
 с	0	20	0	17	295					PREP	case	гемцитабином	inan	ablt	masc	NOUN	0	0	
 одним	0	20	0	17	296		ablt	masc		ADJF	nummod	гемцитабином	inan	ablt	masc	NOUN	0	0	sing
-гемцитабином	0	20	0	17	297	inan	ablt	masc		NOUN	obl	монорежими		ablt		ADJF	0	0	sing
+гемцитабином	0	20	0	17	297	inan	ablt	masc		NOUN	obl	монорежими		ablt		ADJF	1	297	sing
 это	0	20	0	17	298					PRCL	nsubj	кошмар	inan	nomn	masc	NOUN	0	0	
 кошмар	0	20	0	17	299	inan	nomn	masc		NOUN	ROOT	кошмар	inan	nomn	masc	NOUN	0	0	sing
 писала	0	20	0	17	300			femn		VERB	parataxis	кошмар	inan	nomn	masc	NOUN	0	0	sing
@@ -17105,9 +17105,9 @@ galina.kotova.83@mail.ru	0	19	0	1	8						ROOT	galina.kotova.83@mail.ru					0	0
 другую	0	20	0	18	310		accs	femn		ADJF	amod	химию	inan	accs	femn	NOUN	0	0	sing
 химию	0	20	0	18	311	inan	accs	femn		NOUN	obj	выписали				VERB	0	0	sing
 xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0	
-оксалиплатин	0	20	0	18	313	inan	gent	femn		NOUN	appos	xelox					0	0	plur
+оксалиплатин	0	20	0	18	313	inan	gent	femn		NOUN	appos	xelox					1	313	plur
 и	0	20	0	18	314					CONJ	cc	капецитабин	anim	nomn	masc	NOUN	0	0	
-капецитабин	0	20	0	18	315	anim	nomn	masc		NOUN	conj	оксалиплатин	inan	gent	femn	NOUN	0	0	sing
+капецитабин	0	20	0	18	315	anim	nomn	masc		NOUN	conj	оксалиплатин	inan	gent	femn	NOUN	1	315	sing
 а	0	20	0	19	316					CONJ	cc	дают				VERB	0	0	
 назначения	0	20	0	19	317	inan	gent	neut		NOUN	obj	дают				VERB	0	0	sing
 дают	0	20	0	19	318				3per	VERB	ROOT	дают				VERB	0	0	plur
@@ -17146,14 +17146,14 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 начала	0	20	0	21	351	inan	gent	neut		NOUN	obl	попробуем				VERB	0	0	sing
 в	0	20	0	21	352					PREP	case	монорежиме	inan	loct	masc	NOUN	0	0	
 монорежиме	0	20	0	21	353	inan	loct	masc		NOUN	nmod	начала	inan	gent	neut	NOUN	0	0	sing
-капецитабином	0	20	0	21	354	inan	ablt	masc		NOUN	xcomp	попробуем				VERB	0	0	sing
+капецитабином	0	20	0	21	354	inan	ablt	masc		NOUN	xcomp	попробуем				VERB	1	354	sing
 и	0	20	0	21	355					CONJ	cc	добавим				VERB	0	0	
 если	0	20	0	21	356					CONJ	mark	пойдет				VERB	0	0	
 пойдет	0	20	0	21	357				3per	VERB	advcl	добавим				VERB	0	0	sing
 нормально	0	20	0	21	358					ADVB	advmod	пойдет				VERB	0	0	
 то	0	20	0	21	359					CONJ	mark	добавим				VERB	0	0	
 добавим	0	20	0	21	360				1per	VERB	advcl	сказал			masc	VERB	0	0	plur
-оксалиплатин	0	20	0	21	361	inan	gent	femn		NOUN	obj	добавим				VERB	0	0	plur
+оксалиплатин	0	20	0	21	361	inan	gent	femn		NOUN	obj	добавим				VERB	1	361	plur
 что	0	20	0	22	362					CONJ	mark	выписали				VERB	0	0	
 типа	0	20	0	22	363	inan	gent	masc		NOUN	obj	выписали				VERB	0	0	sing
 дозировки	0	20	0	22	364	inan	gent	femn		NOUN	nmod	типа	inan	gent	masc	NOUN	0	0	sing
@@ -17164,7 +17164,7 @@ xelox	0	20	0	18	312						appos	химию	inan	accs	femn	NOUN	0	0
 возраста	0	20	0	22	369	inan	gent	masc		NOUN	obl	большие		nomn		ADJF	0	0	sing
 такого	0	20	0	22	370		gent	neut		ADJF	det	возраста	inan	gent	masc	NOUN	0	0	sing
 назначил	0	20	0	23	371			masc		VERB	ROOT	назначил			masc	VERB	0	0	sing
-капецитабина	0	20	0	23	372	anim	gent	masc		NOUN	obj	назначил			masc	VERB	0	0	sing
+капецитабина	0	20	0	23	372	anim	gent	masc		NOUN	obj	назначил			masc	VERB	1	372	sing
 500	0	20	0	23	373						nummod	мг	inan	nomn	masc	NOUN	0	0	
 мг	0	20	0	23	374	inan	nomn	masc		NOUN	obj	назначил			masc	VERB	0	0	sing
 по	0	20	0	24	375					PREP	case	таблеток	inan	gent	femn	NOUN	0	0	
