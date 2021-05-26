@@ -107,8 +107,13 @@ Admin сказал(а) 19.9.2006, 0:29:
 Сонапакс с тормозным компонентом для начала был бы неплох. Однозначно хороший нейролептик, особенно при лечении параноидной шизофрении.
 ```
 В этом примере можно понять, что "нейролептик" может являться анафором, и иметь связь с названием лекарства, "Сонопакс", только зная, что сонопакс является медицинским препаратом, а нейролептик - это класс медицинских препаратов. Если система сможет связать эти два понятия, то разрешение анафоры представляется возможным. Поэтому часто в менее узкоспециализированных исследованиях (особенно ранних) использовали лексические системы хранения знаний, такие как WordNet[21].
-Есть и русскоязычные лексические системы хранения знаний, например wiki-ru-wordnet (https://wiki-ru-wordnet.readthedocs.io/) – семантическая сеть типа WordNet для русского языка, составленная из данных русского Викисловаря (https://ru.wiktionary.org/).
+Однако, такие системы извлекали только информацию о наличии/отсутствии связи, и появились решения, хранящие более широкий набор семантической и синтактической информации, такие как Ontonotes[23] и ARRENAU[22]. 
 
+В корпусе Ontonotes[23] есть ряд своих ограничений. Например, не размечены синглтоны, связи с абстрактными объектами, и ссылки на могие классы объектов[23]. В системе ARRENAU[22], в отличии от Ontonotes[23], были размечены синглтоны и эксплитивы.
+
+Есть и русскоязычные лексические системы хранения знаний, например wiki-ru-wordnet (https://wiki-ru-wordnet.readthedocs.io/) – семантическая сеть типа WordNet для русского языка, составленная из данных русского Викисловаря (https://ru.wiktionary.org/). 
+
+  
 
 ## Сбор и подготовка данных.
 
@@ -441,6 +446,21 @@ In LREC.
 
 [21] Fellbaum, Christiane (2005). WordNet and wordnets. In: Brown, Keith et al. (eds.), Encyclopedia of Language and Linguistics, Second Edition, Oxford: Elsevier, 665-670
 
+[22] https://www.aclweb.org/anthology/W18-0702.pdf Anaphora Resolution with the ARRAU Corpus
+Massimo Poesio, Yulia Grishina, Varada Kolhatkar, Nafise Moosavi, Ina Roesiger, Adam Roussel, Fabian Simonjetz, Alexandra Uma, Olga Uryupina, Juntao Yu, Heike Zinsmeister
+
+[23] S. S. Pradhan, E. Hovy, M. Marcus, M. Palmer,
+L. Ramshaw, and R. Weischedel. 2007a. Ontonotes:
+A unified relational semantic representation. International Journal on Semantic Computing, 1(4):405–
+419.
+
+[24] Sameer Pradhan, Alessandro Moschitti, Nianwen Xue,
+Olga Uryupina, and Yuchen Zhang. 2012. Conll2012 shared task: Modeling multilingual unrestricted coreference in ontonotes. In Joint Conference on EMNLP and CoNLL - Shared Task, pages
+1–40, Jeju Island, Korea. Association for Computational Linguistics.
+
+[25] William L. Hamilton, Rex Ying, and Jure Leskovec. 2017. Representation learning on graphs: Methods and
+applications. cite arxiv:1709.05584Comment: Published in the IEEE Data Engineering Bulletin, September
+2017; version with minor corrections.
 
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=E_sid=\frac{\sum_n^i{E\imath}}{n}
 [f2]: http://chart.apis.google.com/chart?cht=tx&chl=E_sid
