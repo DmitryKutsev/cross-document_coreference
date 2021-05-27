@@ -191,6 +191,8 @@ Admin сказал(а) 19.9.2006, 0:29:
 Tf-IDF считает частоту появления слова в конкретном тексте документа относительно его частоты появления во всей коллекции обрабатываемых текстов, что интуитивно понятно, исходя из названия. Это позволяет снизить значимость слов, которые употребляются во всем корпусе, относительно слов, часто употребляемых в конкретном тексте. Метод используется и до сих пор, однако большая размерность векторов, и потеря информации о совстречаемости  являются его ключевыми недостатками, притом довольно существенными.
 Можно решить проблему совстречаемости, добавив частотные н-граммы в словарь модели, но это сильно увеличит размерность векторов.
 
+Широкое распространение получили алгоритмы вероятностного тематического моделирования, такие как latent Dirichlet allocation (LDA)[29].
+
 В 2013 году появилась работа [28], описывающая алгоритм Word2vec, в котором были решены многие недостатки предыдущих методов.
 
 
@@ -453,6 +455,8 @@ its application in retrieval." Journal of documentation 28.1 (1972): 11-
 21.
 [28] https://arxiv.org/pdf/1301.3781.pdf Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. Efficient estimation
 of word representations in vector space. CoRR, abs/1301.3781, 2013.
+
+[29] https://ai.stanford.edu/~ang/papers/nips01-lda.pdf  Latent Dirichlet Allocation David M. Blei Andrew Y. Ng  Michael I. Jordan
 
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=E_sid=\frac{\sum_n^i{E\imath}}{n}
 [f2]: http://chart.apis.google.com/chart?cht=tx&chl=E_sid
