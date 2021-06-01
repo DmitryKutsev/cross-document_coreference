@@ -6,7 +6,7 @@
 * https://github.com/DmitryKutsev/cross-document_coreference/blob/main/classifiers/rule_ml_pair_pron.ipynb
 
 ## Размеченные данные находятся в репозитории по адресу:
-https://github.com/DmitryKutsev/cross-document_coreference/tree/main/data
+* https://github.com/DmitryKutsev/cross-document_coreference/tree/main/data
 
 ## Скрапперы для сбора данных находятся в репозитории по адресу:
 * https://github.com/DmitryKutsev/cross-document_coreference/tree/main/scraping
