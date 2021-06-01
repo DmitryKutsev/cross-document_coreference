@@ -8,5 +8,8 @@
 ## Размеченные данные находятся в репозитории по адресу:
 https://github.com/DmitryKutsev/cross-document_coreference/tree/main/data
 
+## Скрапперы для сбора данных находятся в репозитории по адресу:
+* https://github.com/DmitryKutsev/cross-document_coreference/tree/main/scraping
+
 ## Ссылка на текст работы:
 * https://docs.google.com/document/d/1TtxMLPjB6tCr1aPt8kW2vqxmTgPZtUXM5F-wRXYV_jo/edit#
