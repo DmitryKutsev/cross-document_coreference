@@ -12,7 +12,7 @@
 * https://github.com/DmitryKutsev/cross-document_coreference/tree/main/scraping
 
 ## Ссылка на текст работы:
-* https://docs.google.com/document/d/14UHqBYotq-uKuPC-1pXxwWdbnnSbDbHfIyTlBo8uy7E/edit
+* https://docs.google.com/document/d/14UHqBYotq-uKuPC-1pXxwWdbnnSbDbHfIyTlBo8uy7E/edit?usp=sharing
 
 ## Неудачные эксперименты и ранние версии разметки данных можно найти в папках "old":
 * https://github.com/DmitryKutsev/cross-document_coreference/tree/main/data/old
